@@ -47,11 +47,11 @@ url_code = ""
 #### Active since 2000
 
 ## Research rationale
-In the late 1990s, new techniques for measuring the expression[^1] of genes at the level of entire genomes have emerged [Anand2004]({{< ref "/publication/Anand2004/index.md" >}}.
+In the late 1990s, new techniques for measuring the expression[^Anand2004] of genes at the level of entire genomes have emerged [Anand2004]({{< ref "/publication/Anand2004/index.md" >}}.
 Alongside these activities, research was also carried out on the parallelization of the Blast algorithm {{< cite page="/publication/Anand2004" view="4" >}}
 By combining these quantitative measurements with biological knowledge, this breakthrough has paved the way for deciphering the activity of genes, their interactions and their involvement in various biological Solutions to integrate heterogeneous data and to automate their analysis were more than ever needed.
 
-[^1]: {{< cite page="/publication/Anand2004" view="4" >}}
+[^Anand2004]: {{< cite page="/publication/Anand2004" view="4" >}}
 
 
 ## Related publications
