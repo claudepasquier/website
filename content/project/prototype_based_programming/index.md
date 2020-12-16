@@ -60,7 +60,7 @@ There are also crucial questions about the reuse of documents and their interope
 My PhD thesis work aimed to explore the use of software engineering fundamentals to define the basis for the representation and handling of structured documents.
 This research led to the development of the [BIBLE](/software/bible) system, whose main contribution was the intelligent organization of the various logical and physical representations associated with the processed documents.
 The system I developed has set up a form of dynamic sharing based on the delegation and cloning of prototypes.
-Its underlying mechanism relied on prototype-based programming, a promising new area of research in the early 1990s  [^Pasquier1992;^Pasquier1994].
+Its underlying mechanism relied on prototype-based programming, a promising new area of research in the early 1990s  [^Pasquier1992] [^Pasquier1994].
 
 ## Funding
 

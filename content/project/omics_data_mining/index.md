@@ -58,7 +58,7 @@ Solutions to integrate heterogeneous data and to automate their analysis were mo
 #### A methodology to ease data integration using Semantic Web technologies
 Our research started with the idea that Semantic Web technologies, which provide a common framework allowing data to be shared and reused between applications, might be applied to the management of disseminated biological data.
 We studied and reported the specificities of biological data that made the application of these technologies to the life sciences a real challenge.
-Then, we proposed a methodology to facilitate data integration using Semantic Web whose precepts were very close to the rules that currently govern the Web of Data [^Pasquier2008a;^Pasquier2011].
+Then, we proposed a methodology to facilitate data integration using Semantic Web whose precepts were very close to the rules that currently govern the Web of Data [^Pasquier2008a] [^Pasquier2011].
 We implemented our ideas in [AllOnto](/software/allonto), a Knowledge Base System capable of storing and performing queries on large sets of RDF/OWL specifications (including the storing and querying of reified statements).
 The software was designed to handle the provenance of information and included reasoning capabilities dealing with type inference, transitivity and built-in OWL constructs like *owl:sameAs* and *owl:inverseOf*.
 
@@ -68,13 +68,13 @@ Allonto was applied to collect and integrate data used in three different approa
 The data-driven approach involves first identifying groups of genes whose expression shows similar variation and then integrating knowledge about genes.
 The research on this topic took the form of an integrated system called [THEA](/software/thea) (Tools for High-throughput Experiments Analysis).
 The software integrates several data mining algorithms to automatically annotate groups of genes sharing similar expression profiles with biological information (various ontologies, chromosomal localization, link with diseases).
-Experiments show that using THEA not only makes it easy and quick to obtain all manually highlighted results, but also to pinpoint new findings [^Pasquier2004a;^Pasquier2004b].
+Experiments show that using THEA not only makes it easy and quick to obtain all manually highlighted results, but also to pinpoint new findings [^Pasquier2004a] [^Pasquier2004b].
 
 #### Automatic gene annotation through a knowledge-driven approach
 The knowledge-driven approach consists of first finding co-annotated groups of genes and then, in a second step, integrating data on expression profiles.
 The [CGGA](/software/cgga) method (Co-expressed Gene Groups Analysis), which we developed, is part of this approach.
 The tests that have been carried out show that the functional annotations provided by CGGA reduce the complexity of the data analysis problem by integrating various types of information about genes.
-The experimental results showed the interest of the approach and made it possible to identify relevant information on the biological processes studied [^Martinez2005;^Martinez2006a;^Martinez2006b;^Martinez2006c;^Martinez2008c;^Pasquier2008b;^Martinez2009].
+The experimental results showed the interest of the approach and made it possible to identify relevant information on the biological processes studied [^Martinez2005] [^Martinez2006a] [^Martinez2006] [^Martinez2006c] [^Martinez2008c] [^Pasquier2008b] [^Martinez2009].
 
 #### Extraction of association rules from a heterogeneous set of gene data
 We have proposed the use of Association Rule Discovery (ARD) as a method capable of identifying rules linking any pieces of biological data and which does not impose any ordering over the use of data sources.
@@ -83,7 +83,7 @@ GenMiner allows the joint use of knownledge about genes and their level of expre
 Our method includes a new algorithm, called [NorDI](/software/nordi) (Normal DIscretization algorithm) to discretize gene expression measurements and generate expression profiles.
 The experiments we conducted confirmed the advantages of GenMiner over known approaches.
 GenMiner allows to search for association rules using a much smaller minimum support than what is possible with traditional approaches.
-In addition, GenMiner significantly reduces the number of extracted rules, making it much easier for the end user to explore and interpret [^Martinez2007;^Martinez2008a;^Martinez2008b].
+In addition, GenMiner significantly reduces the number of extracted rules, making it much easier for the end user to explore and interpret [^Martinez2007] [^Martinez2008a] [^Martinez2008b].
 
 Alongside these activities, research was also carried out on the parallelization of the Blast algorithm [^Anand2004].
 Collaborations with biologists still continue, resulting in collaborative research where we are primarily responsible for data analysis [^Pasquier2014a].

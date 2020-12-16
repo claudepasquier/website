@@ -65,11 +65,11 @@ Instead of tertiary structure determination, we focused our research on two comp
 Periodical patterns and tandem repeats of residues are often found in DNA and protein sequences.
 In proteins, their presence helps towards an understanding of the molecular structure of a fibrous/structural protein employing the principle of conformational equivalence and it may suggest ways of ultramolecular assembly for the formation of higher order structure.
 Characteristic examples are periodicities found in a number of sequences of fibrous proteins (e.g. tropomyosin, myosin, keratins and collagen).
-We used the Fourier analysis method to highlight hidden periodicities in protein sequences and developped [FT](/software/ft), a tool accessible by biologists through the Internet[^Pasquier1998a;^Pasquier1998b].
+We used the Fourier analysis method to highlight hidden periodicities in protein sequences and developped [FT](/software/ft), a tool accessible by biologists through the Internet[^Pasquier1998a] [^Pasquier1998b].
 
 In the continuation of this work, we explored the use of hierarchical, artificial neural networks for the generalized classification of proteins into several distinct classes - transmembrane, fibrous, globular, and mixed - from information solely encoded in their amino
-acid sequences [^Pasquier1999c;^Pasquier2001;^Promponas2001].
-The use of our implementations ([PRED-TMR2](/software/pred-tmr2) and [PRED-CLASS](/software/pred-class)) to analyze various test sets and complete proteomes of several organisms demonstrates that such methods could serve as a valuable tool in the annotation of genomic open reading frames with no functional assignment or as a preliminary step in fold recognition and ab initio structure prediction methods [^Promponas1998;^Promponas1999;^Pasquier1999b;^Liakopoulos2000;^Liakopoulos2001b;^Iliopoulos2003].
+acid sequences [^Pasquier1999c] [^Pasquier2001] [^Promponas2001].
+The use of our implementations ([PRED-TMR2](/software/pred-tmr2) and [PRED-CLASS](/software/pred-class)) to analyze various test sets and complete proteomes of several organisms demonstrates that such methods could serve as a valuable tool in the annotation of genomic open reading frames with no functional assignment or as a preliminary step in fold recognition and ab initio structure prediction methods [^Promponas1998] [^Promponas1999] [^Pasquier1999b] [^Liakopoulos2000] [^Liakopoulos2001b] [^Iliopoulos2003].
 
 #### Prediction of transmembrane alpha-helices in membrane proteins
 
@@ -80,7 +80,7 @@ Researchers have identified several characteristics that are common to a large p
 They observed, for example, that transmembrane segments are mainly composed of hydrophobic residues, and that the propensity of positively charged residues is higher in the non-transmembrane segments on the inner part of the cell, also that a high propensity of tyrosine and tryptophan indicates the outer part of the cell.
 To enhance this knowledge, we performed several statistical analysis of known transmembrane segments to find other characteristics of transmembrane parts.
 We determined, among other things, the distribution of transmembrane segment length, the propensity for each amino acid to be in a transmembrane region and the precise profiles of potential termini ("edges", starts and ends) of transmembrane regions [@Pasquier1999a].
-We combined this information with several scoring functions to predict the precise position of transmembrane segments and their topology [^Liakopoulos1999;^iakopoulos2001a].
+We combined this information with several scoring functions to predict the precise position of transmembrane segments and their topology [^Liakopoulos1999] [^Liakopoulos2001a].
 The accuracy of our method compares well with that of other popular existing methods.
 This work led to the implementation of several tools freely available on the Internet: [PRED-TMR](/software/pred-tmr), [OrienTM](/software/orientm), [CoPreTHi](/software/coprethi) and [Dam-Bio](/software/dam-bio).
 
@@ -117,5 +117,5 @@ This work led to the implementation of several tools freely available on the Int
 [^Liakopoulos2001b]: {{< cite page="/publication/Pasquier2013a" view="4" >}}
 [^Iliopoulos2003]: {{< cite page="/publication/Iliopoulos2003" view="4" >}}
 [^Liakopoulos1999]: {{< cite page="/publication/Liakopoulos1999" view="4" >}}
-[^iakopoulos2001a]: {{< cite page="/publication/iakopoulos2001a" view="4" >}}
+[^Liakopoulos2001a]: {{< cite page="/publication/Liakopoulos2001a" view="4" >}}
 

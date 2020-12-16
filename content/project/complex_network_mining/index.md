@@ -49,7 +49,7 @@ url_code = ""
 ## Research rationale
 Network data modeling has emerged in various disciplines as a unified way of representing complex relational data.
 Formally, these complex networks (which we call multidimensional networks) are multigraphs for which nodes and edges are (multi-)labeled.
-The core of our research activity focuses on analyzing these complex networks for information extraction purposes [@Pasquier2018].
+The core of our research activity focuses on analyzing these complex networks for information extraction purposes [^Pasquier2018].
 
 ## Results
 
@@ -62,8 +62,8 @@ Computational methods can make an important contribution to this goal.
 
 To this end, we have been working on a new method to predict associations between miRNAs and diseases.
 Its principle involves representing miRNAs and their links with elements highlighting various facets of these molecules (targeted genes, neighboring miRNAs, terms associated with them in scientific articles) in the form of a multidimensional network and then projecting this network into a vector space in order to use metrics within this space to predict MiRNA-disease associations.
-The performance of our algorithm, [MiRAI](/software/mirai), was characteristic of an excellent classifier and corresponded to the state of the art in the field [@Pasquier2016a].
-Subsequently, we proposed an improvement by using a parallel surrogate-assisted evolutionary algorithm to automatically find an optimal configuration of our predictive method [@Pallez2017].
+The performance of our algorithm, [MiRAI](/software/mirai), was characteristic of an excellent classifier and corresponded to the state of the art in the field [^Pasquier2016a].
+Subsequently, we proposed an improvement by using a parallel surrogate-assisted evolutionary algorithm to automatically find an optimal configuration of our predictive method [^Pallez2017].
 
 ### Study of triplex topology
 It has been known since the 1960s that some short RNA sequences are likely to match particular areas of DNA to form triple-stranded structures called [triplex DNA](https://en.wikipedia.org/wiki/Triple-stranded_DNA).
@@ -121,6 +121,9 @@ Our method shows improved performance over the state of the art, good cross-doma
 * [MIRAI](/software/mirai): Prédiction of miRNA-disease associations
 
 #### Publications related to this theme
+[^Pasquier2018]: {{< cite page="/publication/Pasquier2018" view="4" >}}
+[^Pasquier2016a]: {{< cite page="/publication/Pasquier2016a" view="4" >}}
+[^Pallez2017]: {{< cite page="/publication/Pallez2017" view="4" >}}
 [^Pasquier2017a]: {{< cite page="/publication/Pasquier2017a" view="4" >}}
 [^Pasquier2020]: {{< cite page="/publication/Pasquier2020" view="4" >}}
 [^Correa2019]: {{< cite page="/publication/Correa2019" view="4" >}}

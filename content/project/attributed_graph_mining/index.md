@@ -68,24 +68,24 @@ We proposed a complete method for navigating the search space that combines two 
 We empirically defined the notion of closure on attributed graphs by considering that an attributed graph is closed if it is not included in any other attributed graph that has the same support as it.
 We have also proposed two concise representations of the patterns that are defined either according to the inclusion on itemsets (c-closed patterns), or according to the inclusion on the structures (s-closed patterns).
 We have shown that the enumeration of c-closed patterns allows to drastically reduce both the number of returned patterns and the execution time.
-Tests have shown that this condensed representation offers a good compromise between speed of execution and conciseness of results[^Pasquier2013a] [^Pasquier2013b], [^Pasquier2016b].
+Tests have shown that this condensed representation offers a good compromise between speed of execution and conciseness of results[^Pasquier2013a] [^Pasquier2013b] [^Pasquier2016b].
 
 #### Handling of cycles and isomorphic patterns
 The consideration of cycles in a graph required a special treatment of the isomorphic patterns that are inevitably generated for all explorations that start on another node that is part of the cycle.
 Patterns that have many subgraph isomorphisms with the analyzed pattern present difficulties for all existing algorithms because the problem of subgraph isomorphisms is NP-complete.
-We have proposed two optimizations that make it possible, on the one hand, to trim the search tree generated from an automorphic pattern and, on the other hand, to delete certain ways of obtaining automorphic patterns that do not allow new canonical patterns to be generated [^Pasquier2014b;^Pasquier2017b].
+We have proposed two optimizations that make it possible, on the one hand, to trim the search tree generated from an automorphic pattern and, on the other hand, to delete certain ways of obtaining automorphic patterns that do not allow new canonical patterns to be generated [^Pasquier2014b] [^Pasquier2017b].
 
 #### A new condensed representation of weighted paths
 We have addressed the problem of extracting frequent weighted paths in a single attributed directed acyclic graph (aDAG) where each weight expresses the frequency of a transition.
 Frequent paths are used to analyze the causal relationship between sequences of events and/or attributes.
-As the number of patterns can be very large, we have designed a condensed representation for such collections[^Sanhes2013a;^Sanhes2013b].
+As the number of patterns can be very large, we have designed a condensed representation for such collections[^Sanhes2013a] [^Sanhes2013b].
 
 #### Integrating mathematical models defined by experts into the extraction process 
 By noting that in many data science contexts, experts have often capitalized part of their knowledge in mathematical models, we have proposed to use these models to derive new constraints that can be used during the data mining phase to improve both pattern relevancy and computational efficiency 
 We have defined a method of patterns mining under constraint of a modele. 
 We also studied some properties of predicates and constraints in order to use them to optimize pattern calculations.
 We have shown that taking into account constraints from mathematical models makes it possible to better target analysis, while improving performance through model properties.
-We have thus obtained more relevant patterns, complementing or contradicting the expert knowledge on the studied phenomena [^Flouvat2014a;^Flouvat2014b].
+We have thus obtained more relevant patterns, complementing or contradicting the expert knowledge on the studied phenomena [^Flouvat2014a] [^Flouvat2014b].
 
 ## Funding
 
