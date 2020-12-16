@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "GenMiner"
+title = "THEA-ONLINE"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mining association rule from gene expression."
+summary = "Semantic data integration."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Gene Expression Analysis", "Data Mining", "Ended Project"]
+tags = ["Computational Biology", "Semantic Data Integration", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Download Code", url = "data/GenMiner.zip"}]
+#links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-TMR2/"}, {name="Execute Online", url="http://athina.biol.uoa.gr/PRED-TMR2/input.html"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,14 +45,19 @@ links = [{name="Download Code", url = "data/GenMiner.zip"}]
   focal_point = "Smart"
 +++
 
-| GenMiner       |                                              |
-| -------------- | -------------------------------------------- |
-| Release date   | 2008                                         |
-| Implementation | Java                                         |
-| Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
+| THEA-ONLINE    |               |
+| -------------- | ------------- |
+| Release date   | 2008          |
+| Implementation | Java          |
+| Author         | Pasquier, C   |
 
 
-GenMiner [@Martinez2007;@Martinez2008b;@Martinez2009] is a Java implementation of the GenMiner algorithm for mining equivalence classes and minimal non-redundant association rule from gene expression data. This implementation integrates the R implementation of the Normalized Discretization method (NorDi) to preprocess gene expression data and the Java implementation of the JClose algorithm (JClose) to extract equivalence classes and minimal non-redundant association rules from these data.
+Thea-online [Pasquier2008a] [^Pasquier2011] constitutes a use case of Semantic Web technologies applied
+to life science. It relies on the use of already available Semantic Web
+standards (URIs, RDF, OWL, SPARQL) to integrate, query and display
+information originating from several different sources.
 
 #### Related publications
+[^Pasquier2008a]: {{< cite page="/publication/Pasquier2008a" view="4" >}}
+[^Pasquier2011]: {{< cite page="/publication/Pasquier2011" view="4" >}}
 

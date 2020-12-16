@@ -52,7 +52,7 @@ url_code = ""
 
 
 
-GeniaJ [@Pasquier2010] is a Java implementation of the Genia
+GeniaJ [^Pasquier2010] is a Java implementation of the Genia
 tagger (Part-of-speech tagging and shallow parsing for biomedical texts)
 version 3.0.1 of April 16 2007. The original
 version was developped in C++ by Yoshimasa Tsuruoka from the Tsujii
@@ -109,4 +109,5 @@ this output by looking at the chunk tags. You can also find a protein
 name with the named entity tags.
 
 #### Related publication
+[^Pasquier2010]: {{< cite page="/publication/Pasquier2010" view="4" >}}
 

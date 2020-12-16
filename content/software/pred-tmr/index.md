@@ -51,7 +51,7 @@ links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-TMR/"
 | Implementation | C++                                                                          |
 | Authors        | Pasquier, C., Promponas, V., Palaios, G., Hamodrakas, I., and Hamodrakas, S. |
 
-PRED-TMR [@Pasquier1999a] is a method that predicts transmembrane domains in proteins
+PRED-TMR[^Pasquier1999a] is a method that predicts transmembrane domains in proteins
 using solely information contained in the sequence itself. The algorithm
 refines a standard hydrophobicity analysis with a detection of potential
 termini ("edges", starts and ends) of transmembrane regions. This
@@ -65,5 +65,6 @@ was observed when the algorithm was applied to all transmembrane
 proteins of the SwissProt database (release 35).
 
 #### Related publication
+[^Pasquier1999a]: {{< cite page="/publication/Pasquier1999a" view="4" >}}
 
 

@@ -58,7 +58,7 @@ Taking into account the recent explosion of biological information in
 terms of complete genome sequences the use of computational tools of
 analysis is considered essential. Individual tools are available through
 the Internet, and their performance depends on their liability and
-simplicity of use. Dam-Bio [@Liakopoulos2000;@Liakopoulos2001b] is a workspace that establishes data
+simplicity of use. Dam-Bio [^Liakopoulos2000] [^Liakopoulos2001b] is a workspace that establishes data
 trafficking towards a collection of tools, communication between them
 and simple representation of the results of sequence and structure
 analysis. At the sequence level, the following are offered: analysis of
@@ -76,4 +76,6 @@ system, the individual tools and the user is established through the
 HTTP protocol, the only requirement for its usage being Internet access.
 
 #### Related publications
+[^Liakopoulos2000]: {{< cite page="/publication/Liakopoulos2000" view="4" >}}
+[^Liakopoulos2001b]: {{< cite page="/publication/Liakopoulos2001b" view="4" >}}
 

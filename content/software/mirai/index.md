@@ -51,13 +51,15 @@ links = [{name="Get Code", url="https://github.com/claudepasquier/mirai"}]
 | Implementation | Python                           |
 | Authors        | Pasquier, C. and Pallez D.       |
 
-MiRAI is a Python implementation of a method to predict associations between miRNAs and diseases [@Pasquier2016a]. MiRNAs and their associations with different pieces of knowledge were represented as a multidimentional network. It was therefore possible to represent, in this way, the known associations between miRNAs and diseases, the genes targeted by miRNAs, the physical proximity between miRNAs on the genome, the families to which miRNAs belong, etc.
+MiRAI is a Python implementation of a method to predict associations between miRNAs and diseases [^Pasquier2016a]. MiRNAs and their associations with different pieces of knowledge were represented as a multidimentional network. It was therefore possible to represent, in this way, the known associations between miRNAs and diseases, the genes targeted by miRNAs, the physical proximity between miRNAs on the genome, the families to which miRNAs belong, etc.
 MiRAI uses the concept of distributional semantics to analyze these data. The principle is to transform the multidimensional network so defined into a vector space and to use metrics on the feature space to predict associations between miRNAs and diseases.
 
 The performance of the method was characteristic of an excellent classifier.
-However, MiRAI's performance depends on many parameters that cannot be adjusted manually. We have therefore proposed an improvement in which a parallel surrogate-assisted evolutionary algorithm is proposed in order to automatically find an optimal configuration of our predictive method [@Pallez2017].
+However, MiRAI's performance depends on many parameters that cannot be adjusted manually. We have therefore proposed an improvement in which a parallel surrogate-assisted evolutionary algorithm is proposed in order to automatically find an optimal configuration of our predictive method [^Pallez2017].
 
 The first version of MiRAI is registered at the [Agence pour la Protection des Programmes](https://www.app.asso.fr/en) under the identifier: **IDDN.FR.001.390014.000.S.C.2018.000.31235**. 
 
 #### Related publication
+[^Pasquier2016a]: {{< cite page="/publication/Pasquier2016a" view="4" >}}
+[^Pallez2017]: {{< cite page="/publication/Pallez2017" view="4" >}}
 

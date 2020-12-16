@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "IMIT"
+title = "Bible"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mining frequent patterns in attributed trees."
+summary = "Management of Context-Controlled Documents."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Graph Mining", "Ended Project"]
+tags = ["Software Engineering", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://athina.biol.uoa.gr/FT/"
+#external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,19 +44,15 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| IMIT           |              |
-| -------------- | ------------ |
-| Release date   | 2013         |
-| Implementation | C++          |
-| Author         | Pasquier, C. |
+| AllOnto        |                                  |
+| -------------- | -------------------------------- |
+| Release date   | 1994                             |
+| Implementation | Common Lisp Object System (CLOS) |
+| Author         | Pasquier C.                      |
 
-Mining frequent patterns in attributed trees (that we call asubtrees), which combines tree mining and itemset mining, requires
-the exploration of a huge search space. To make our approach scalable, we investigate the
-mining of condensed representations. For attributed trees, the classical concept of closure
-involves both itemset closure and structural closure. IMIT includes the implementation of three algorithms for mining
-all patterns, closed patterns w.r.t. itemsets (content) and/or structure in attributed trees [@Pasquier2013a;@Pasquier2013b;@Pasquier2016b]. We
-show that, for low support values, mining content-closed attributed trees is a good compromise
-between non-redundancy of solutions and execution time.
+The BIBLE system[^Pasquier1992] [^Pasquier1994] allowed an intelligent organization of the logical and physical representations of structured documents. The system implemented a form of dynamic sharing based on delegation and cloning of prototypes. The underlying mechanism was inspired by Prototype Oriented Programming, which was a promising new line of research in the early 1990s.
 
-#### Related publication
+#### Related publications
+[^Pasquier1992]: {{< cite page="/publication/Pasquier1992" view="4" >}}
+[^Pasquier1994]: {{< cite page="/publication/Pasquier1994" view="4" >}}
 

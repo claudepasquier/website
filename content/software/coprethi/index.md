@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Bible"
+title = "CoPreThi"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Management of Context-Controlled Documents."
+summary = "Prediction of alpha-helices in proteins."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Software Engineering", "Ended Project"]
+tags = ["Computational Biology", "Protein Structure Prediction", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+# external_link = "http://athina.biol.uoa.gr/CoPreTHi/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,6 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/CoPreTHi/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,13 +45,18 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| AllOnto        |                                  |
-| -------------- | -------------------------------- |
-| Release date   | 1994                             |
-| Implementation | Common Lisp Object System (CLOS) |
-| Author         | Pasquier C.                      |
+| CoPreThi       |                                                                              |
+| -------------- | ---------------------------------------------------------------------------- |
+| Release date   | 1998                                                                         |
+| Implementation | Java                                                                         |
+| Authors        | Promponas, V., Palaios, G., Pasquier, C., Hamodrakas, I., and Hamodrakas, S. |
 
-The BIBLE system [@Pasquier1992;@Pasquier1994] allowed an intelligent organization of the logical and physical representations of structured documents. The system implemented a form of dynamic sharing based on delegation and cloning of prototypes. The underlying mechanism was inspired by Prototype Oriented Programming, which was a promising new line of research in the early 1990s.
+CoPreTHi [^Promponas1998] [^Promponas1999] is a Java application that combines the results of methods that
+predict the location of transmembane segments in protein sequences into
+a joint prediction histogram. Clearly, the joint prediction algorithm,
+produces superior quality results than individual prediction schemes.
 
 #### Related publications
+[^Promponas1998]: {{< cite page="/publication/Promponas1998" view="4" >}}
+[^Promponas1999]: {{< cite page="/publication/Promponas1999" view="4" >}}
 

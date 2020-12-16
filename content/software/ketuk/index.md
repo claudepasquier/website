@@ -51,7 +51,7 @@ links = [{name="Go to Project Site", url = "http://www-sop.inria.fr/lemme/Claude
 | Implementation | Java         |
 | Author         | Pasquier, C. |
 
-KeTuK [@Pasquier2000] is a Java based toolkit allowing applications to map XML documents
+KeTuK [^Pasquier2000] is a Java based toolkit allowing applications to map XML documents
 with a set of Java Beans. The idea is to use Java Beans as an interface
 for XML documents. Depending on the behaviour of the Java Beans used,
 various operations, ranging from visualization to edition or generation
@@ -93,5 +93,6 @@ The beans used in the demos are based on the graphical swing-based
 components developed in Kuil.
 
 #### Related publication
+[^Pasquier2000]: {{< cite page="/publication/Pasquier2000" view="4" >}}
 
 

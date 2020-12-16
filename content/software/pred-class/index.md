@@ -51,7 +51,7 @@ links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-CLASS
 | Implementation | C++                                             |
 | Authors        | Pasquier, C., Promponas, V., and Hamodrakas, S. |
 
-PRED-CLASS [@Pasquier2001;@Promponas2001] is a cascading system of hierarchical, artificial neural
+PRED-CLASS[^Pasquier2001] [^Promponas2001] is a cascading system of hierarchical, artificial neural
 networks for the generalized classification of proteins into four
 distinct classes - transmembrane, fibrous, globular, and mixed - from
 information solely encoded in their amino acid sequences. The
@@ -70,5 +70,7 @@ assignment or as a preliminary step in fold recognition and ab initio
 structure prediction methods.
 
 #### Related publications
+[^Pasquier2001]: {{< cite page="/publication/Pasquier2001" view="4" >}}
+[^Promponas2001]: {{< cite page="/publication/Promponas2001" view="4" >}}
 
 

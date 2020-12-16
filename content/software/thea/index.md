@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "CGGA"
+title = "THEA"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Extraction of bi-clusters of genes."
+summary = "Automatic annotation of genes."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Gene Expression Analysis", "Data Mining", "Ended Project"]
+tags = ["Computational Biology", "Gene Expression Analysis", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link = "http://athina.biol.uoa.gr/FT/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Download Binary", url = "data/CGGA.zip"}]
+#links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-TMR2/"}, {name="Execute Online", url="http://athina.biol.uoa.gr/PRED-TMR2/input.html"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,16 +45,20 @@ links = [{name="Download Binary", url = "data/CGGA.zip"}]
   focal_point = "Smart"
 +++
 
-| CGGA           | (Co-expressed Gene Groups Analysis)          |
-| -------------- | -------------------------------------------- |
-| Release date   | 2006                                         |
-| Implementation | R                                            |
-| Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
-| Availability   | binary downloadable [here](data/CGGA.zip)         |
+| THEA           | Tools for High-throughput Experiments Analysis |
+| -------------- | ---------------------------------------------- |
+| Release date   | 2004                                           |
+| Implementation | Java                                           |
+| Authors         | Pasquier, C. and Jevardat de Fombelle, K.      |
 
-CGGA (Co-expressed Gene Groups Analysis) [Martinez2006; @Martinez2006a;@Martinez2006b;@Martinez2008a] performs the extraction of bi-clusters of co-regulated genes from integrated gene expression data and gene annotations obtained from biological knowledge.
-First, the gene rank hierarchy is constructed using SAM F-Scores and then, the CGGA algorithm is applied to group of co-expressed genes.
+THEA (Tools for High-throughput Experiments Analysis) [^Pasquier2004a] is an integrated
+information processing system allowing convenient handling of data. It
+allows to automatically annotate data issued from classification systems
+with selected biological information coming from a knowledge base and to
+either manually search and browse through these annotations or
+automatically generate meaningful generalizations according to
+statistical criteria (data mining).
 
-
-#### Related publications
+#### Related publication
+[^Pasquier2004a]: {{< cite page="/publication/Pasquier2004a" view="4" >}}
 

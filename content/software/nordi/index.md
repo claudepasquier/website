@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "CoPreThi"
+title = "NorDi"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Prediction of alpha-helices in proteins."
+summary = "Discretizing gene expression data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Protein Structure Prediction", "Ended Project"]
+tags = ["Computational Biology", "Gene Expression Analysis", "Data Mining", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "http://athina.biol.uoa.gr/CoPreTHi/"
+#external_link = "http://athina.biol.uoa.gr/FT/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/CoPreTHi/"}]
+links = [{name="Get Code", url="data/NorDi.zip"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,16 +45,16 @@ links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/CoPreTHi/"
   focal_point = "Smart"
 +++
 
-| CoPreThi       |                                                                              |
-| -------------- | ---------------------------------------------------------------------------- |
-| Release date   | 1998                                                                         |
-| Implementation | Java                                                                         |
-| Authors        | Promponas, V., Palaios, G., Pasquier, C., Hamodrakas, I., and Hamodrakas, S. |
+| NorDi          |                                              |
+| -------------- | -------------------------------------------- |
+| Release date   | 2007                                         |
+| Implementation | R                                            |
+| Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
 
-CoPreTHi [@Promponas1998;@Promponas1999] is a Java application that combines the results of methods that
-predict the location of transmembane segments in protein sequences into
-a joint prediction histogram. Clearly, the joint prediction algorithm,
-produces superior quality results than individual prediction schemes.
+NorDi [^Martinez2007] [^Martinez2008b] [^Martinez2009] is a R implementation of the Normal Discretization method for discretizing gene expression data according to the distribution of the dataset.
 
 #### Related publications
+[^Martinez2007]: {{< cite page="/publication/Martinez2007" view="4" >}}
+[^Martinez2008b]: {{< cite page="/publication/Martinez2008b" view="4" >}}
+[^Martinez2009]: {{< cite page="/publication/Martinez2009" view="4" >}}
 

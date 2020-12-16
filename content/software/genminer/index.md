@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "THEA"
+title = "GenMiner"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Automatic annotation of genes."
+summary = "Mining association rule from gene expression."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Gene Expression Analysis", "Ended Project"]
+tags = ["Gene Expression Analysis", "Data Mining", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-#links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-TMR2/"}, {name="Execute Online", url="http://athina.biol.uoa.gr/PRED-TMR2/input.html"}]
+links = [{name="Download Code", url = "data/GenMiner.zip"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,19 +45,17 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| THEA           | Tools for High-throughput Experiments Analysis |
-| -------------- | ---------------------------------------------- |
-| Release date   | 2004                                           |
-| Implementation | Java                                           |
-| Authors         | Pasquier, C. and Jevardat de Fombelle, K.      |
+| GenMiner       |                                              |
+| -------------- | -------------------------------------------- |
+| Release date   | 2008                                         |
+| Implementation | Java                                         |
+| Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
 
-THEA (Tools for High-throughput Experiments Analysis) [@Pasquier2004a] is an integrated
-information processing system allowing convenient handling of data. It
-allows to automatically annotate data issued from classification systems
-with selected biological information coming from a knowledge base and to
-either manually search and browse through these annotations or
-automatically generate meaningful generalizations according to
-statistical criteria (data mining).
 
-#### Related publication
+GenMiner [^Martinez2007] [^Martinez2008b] [^Martinez2009] is a Java implementation of the GenMiner algorithm for mining equivalence classes and minimal non-redundant association rule from gene expression data. This implementation integrates the R implementation of the Normalized Discretization method (NorDi) to preprocess gene expression data and the Java implementation of the JClose algorithm (JClose) to extract equivalence classes and minimal non-redundant association rules from these data.
+
+#### Related publications
+[^Martinez2007]: {{< cite page="/publication/Martinez2007" view="4" >}}
+[^Martinez2008b]: {{< cite page="/publication/Martinez2008b" view="4" >}}
+[^Martinez2009]: {{< cite page="/publication/Martinez2009" view="4" >}}
 

@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "AADAGE"
+title = "FT"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Mining frequent patterns in attributed graphs."
+summary = "Periodicity analysis in molecular sequences."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Graph Mining", "Ended Project"]
+tags = ["Computational Biology", "Protein Structure Prediction", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+#external_link = "http://athina.biol.uoa.gr/FT/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,6 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/FT/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,13 +45,16 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| AADAGE         | (Automorphism Aware Directed Attributed Graph Explorer) |
-| -------------- | ------------------------------------------------------- |
-| Release date   | 2014                                                    |
-| Implementation | C++                                                     |
-| Author         | Pasquier C.                                             |
+| FT             |                                                                  |
+| -------------- | ---------------------------------------------------------------- |
+| Release date   | 1998                                                             |
+| Implementation | C++                                                              |
+| Authors        | Pasquier, C., Promponas, V., Varvayannis, N., and Hamodrakas, S. |
 
-AADAGE (Automorphism Aware Directed Attributed Graph Explorer) [@Pasquier2014b;@Pasquier2017b] is an C++ implementation of a new data mining method that can extract frequent patterns from one or more directed attributed graphs.
+FT [^Pasquier1998a] [^Pasquier1998b] is a tool written in C++, which implements the Fourier analysis
+method to locate periodicities in aminoacid or DNA sequences.
 
-#### Related publication
+#### Related publications
+[^Pasquier1998a]: {{< cite page="/publication/Pasquier1998a" view="4" >}}
+[^Pasquier1998b]: {{< cite page="/publication/Pasquier1998b" view="4" >}}
 

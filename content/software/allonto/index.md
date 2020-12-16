@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "KeyStract"
+title = "AllOnto"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Keywords extraction from scientific papers."
+summary = "Triple store with OWL query answering."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Natural Language Processing", "Ended Project"]
+tags = ["Semantic Data Integration", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://athina.biol.uoa.gr/FT/"
+#external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,7 +32,6 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-#links = [{name="Go to Project Site", url = "http://www-sop.inria.fr/lemme/Claude.Pasquier/ketuk/"}, {name="Get Code", url="data/ketuk.zip"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,17 +44,22 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| KeyStract      |              |
-| -------------- | ------------ |
-| Release date   | 2010         |
-| Implementation | Java         |
-| Author         | Pasquier, C. |
+| AllOnto        |             |
+| -------------- | ----------- |
+| Release date   | 2008        |
+| Implementation | Java        |
+| Author         | Pasquier C. |
 
-KeyStract is a method designed for keyphrase extraction from a single document [@Pasquier2010].
-The principle of the algorithm is to cluster sentences of the documents in order to highlight parts of text that are semantically related.
-The clusters of sentences, that reflect the themes of the document, are then analyzed to find the main topics of the text.
-Finally, the most important words, or groups of words, from these topics are proposed as keyphrases.
-This method has been evaluated on task number 5 (Automatic Keyphrase Extraction from Scientific Articles) of SemEval-2010: the 5th International Workshop on Semantic Evaluations.
 
-#### Related publication
+
+AllOnto[^Pasquier2008a] [^Pasquier2011] is a Knowledge Base System capable of storing and performing
+queries on a large set of RDF/OWL specifications (including the storing
+and querying of reified statements). It includes reasoning capabilities
+like type inference, transitivity and the handling of these two OWL
+constructs: "sameAs" and "inverseOf". In addition, it is capable of
+storing and querying the provenance of information.
+
+#### Related publications
+[^Pasquier2008a]: {{< cite page="/publication/Pasquier2008a" view="4" >}}
+[^Pasquier2011]: {{< cite page="/publication/Pasquier2011" view="4" >}}
 

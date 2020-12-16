@@ -51,7 +51,7 @@ links = [{name="Go to Project Site", url = "http://athina.biol.uoa.gr/PRED-TMR2/
 | Implementation | C++                          |
 | Authors        | Pasquier, C., Hamodrakas, S. |
 
-PRED-TMR2 [@Pasquier1999b;@Pasquier1999c] is a new version of PRED-TMR with protein classification
+PRED-TMR2[^Pasquier1999b] [^Pasquier1999c] is a new version of PRED-TMR with protein classification
 capabilities. This software uses a simple artificial neural network
 which classifies proteins into two classes from their sequences alone:
 the membrane protein class and the non-membrane protein class. This may
@@ -69,5 +69,7 @@ The method was also applied to the complete SWISS-PROT database with
 considerable success and on ORF's of several complete genomes.
 
 #### Related publications
+[^Pasquier1999b]: {{< cite page="/publication/Pasquier1999b" view="4" >}}
+[^Pasquier1999c]: {{< cite page="/publication/Pasquier1999c" view="4" >}}
 
 

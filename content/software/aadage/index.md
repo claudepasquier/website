@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "AllOnto"
+title = "AADAGE"
 
 # Date this page was created.
 date = 2019-10-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Triple store with OWL query answering."
+summary = "Mining frequent patterns in attributed graphs."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Semantic Data Integration", "Ended Project"]
+tags = ["Graph Mining", "Ended Project"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
@@ -44,20 +44,15 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-| AllOnto        |             |
-| -------------- | ----------- |
-| Release date   | 2008        |
-| Implementation | Java        |
-| Author         | Pasquier C. |
+| AADAGE         | (Automorphism Aware Directed Attributed Graph Explorer) |
+| -------------- | ------------------------------------------------------- |
+| Release date   | 2014                                                    |
+| Implementation | C++                                                     |
+| Author         | Pasquier C.                                             |
 
+AADAGE (Automorphism Aware Directed Attributed Graph Explorer)[^Pasquier2014b] [^Pasquier2017b] is an C++ implementation of a new data mining method that can extract frequent patterns from one or more directed attributed graphs.
 
-
-AllOnto [@Pasquier2008a;@Pasquier2011] is a Knowledge Base System capable of storing and performing
-queries on a large set of RDF/OWL specifications (including the storing
-and querying of reified statements). It includes reasoning capabilities
-like type inference, transitivity and the handling of these two OWL
-constructs: "sameAs" and "inverseOf". In addition, it is capable of
-storing and querying the provenance of information.
-
-#### Related publications
+#### Related publication
+[^Pasquier2014b]: {{< cite page="/publication/Pasquier2014b" view="4" >}}
+[^Pasquier2017b]: {{< cite page="/publication/Pasquier2017b" view="4" >}}
 
