@@ -1,0 +1,83 @@
+Experiment ID	Experiment Description	Reference Sample	Time (minutes)	Reference
+alpha 0	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	0	"Spellman, et al., 1998"
+alpha 7	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	7	"Spellman, et al., 1998"
+alpha 14	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	14	"Spellman, et al., 1998"
+alpha 21	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	21	"Spellman, et al., 1998"
+alpha 28	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	28	"Spellman, et al., 1998"
+alpha 35	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	35	"Spellman, et al., 1998"
+alpha 42	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	42	"Spellman, et al., 1998"
+alpha 49	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	49	"Spellman, et al., 1998"
+alpha 56	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	56	"Spellman, et al., 1998"
+alpha 63	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	63	"Spellman, et al., 1998"
+alpha 70	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	70	"Spellman, et al., 1998"
+alpha 77	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	77	"Spellman, et al., 1998"
+alpha 84	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	84	"Spellman, et al., 1998"
+alpha 91	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	91	"Spellman, et al., 1998"
+alpha 98	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	98	"Spellman, et al., 1998"
+alpha 105	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	105	"Spellman, et al., 1998"
+alpha 112	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	112	"Spellman, et al., 1998"
+alpha 119	Cell-cycle: Alpha factor arrest and release	unsynchronized culture	119	"Spellman, et al., 1998"
+Elu 0	Cell-cycle: Elutriation	unsynchronized culture	0	"Spellman, et al., 1998"
+Elu 30	Cell-cycle: Elutriation	unsynchronized culture	30	"Spellman, et al., 1998"
+Elu 60	Cell-cycle: Elutriation	unsynchronized culture	60	"Spellman, et al., 1998"
+Elu 90	Cell-cycle: Elutriation	unsynchronized culture	90	"Spellman, et al., 1998"
+Elu 120	Cell-cycle: Elutriation	unsynchronized culture	120	"Spellman, et al., 1998"
+Elu 150	Cell-cycle: Elutriation	unsynchronized culture	150	"Spellman, et al., 1998"
+Elu 180	Cell-cycle: Elutriation	unsynchronized culture	180	"Spellman, et al., 1998"
+Elu 210	Cell-cycle: Elutriation	unsynchronized culture	210	"Spellman, et al., 1998"
+Elu 240	Cell-cycle: Elutriation	unsynchronized culture	240	"Spellman, et al., 1998"
+Elu 270	Cell-cycle: Elutriation	unsynchronized culture	270	"Spellman, et al., 1998"
+Elu 300	Cell-cycle: Elutriation	unsynchronized culture	300	"Spellman, et al., 1998"
+Elu 330	Cell-cycle: Elutriation	unsynchronized culture	330	"Spellman, et al., 1998"
+Elu 360	Cell-cycle: Elutriation	unsynchronized culture	360	"Spellman, et al., 1998"
+Elu 390	Cell-cycle: Elutriation	unsynchronized culture	390	"Spellman, et al., 1998"
+cdc15 10	Cell-cycle: cdc15 arrest and release	unsynchronized culture	10	"Spellman, et al., 1998"
+cdc15 30	Cell-cycle: cdc15 arrest and release	unsynchronized culture	30	"Spellman, et al., 1998"
+cdc15 50	Cell-cycle: cdc15 arrest and release	unsynchronized culture	50	"Spellman, et al., 1998"
+cdc15 70	Cell-cycle: cdc15 arrest and release	unsynchronized culture	70	"Spellman, et al., 1998"
+cdc15 90	Cell-cycle: cdc15 arrest and release	unsynchronized culture	90	"Spellman, et al., 1998"
+cdc15 110	Cell-cycle: cdc15 arrest and release	unsynchronized culture	110	"Spellman, et al., 1998"
+cdc15 130	Cell-cycle: cdc15 arrest and release	unsynchronized culture	130	"Spellman, et al., 1998"
+cdc15 150	Cell-cycle: cdc15 arrest and release	unsynchronized culture	150	"Spellman, et al., 1998"
+cdc15 170	Cell-cycle: cdc15 arrest and release	unsynchronized culture	170	"Spellman, et al., 1998"
+cdc15 190	Cell-cycle: cdc15 arrest and release	unsynchronized culture	190	"Spellman, et al., 1998"
+cdc15 210	Cell-cycle: cdc15 arrest and release	unsynchronized culture	210	"Spellman, et al., 1998"
+cdc15 230	Cell-cycle: cdc15 arrest and release	unsynchronized culture	230	"Spellman, et al., 1998"
+cdc15 250	Cell-cycle: cdc15 arrest and release	unsynchronized culture	250	"Spellman, et al., 1998"
+cdc15 270	Cell-cycle: cdc15 arrest and release	unsynchronized culture	270	"Spellman, et al., 1998"
+cdc15 290	Cell-cycle: cdc15 arrest and release	unsynchronized culture	290	"Spellman, et al., 1998"
+spo 0	Sporulation	time 0	0	"Chu et al., 1998"
+spo 2	Sporulation	time 0	120	"Chu et al., 1998"
+spo 5	Sporulation	time 0	300	"Chu et al., 1998"
+spo 7	Sporulation	time 0	420	"Chu et al., 1998"
+spo 9	Sporulation	time 0	540	"Chu et al., 1998"
+spo 11	Sporulation	time 0	660	"Chu et al., 1998"
+spo5 2	Sporulation	5 hour timepoint	120	"Chu et al., 1998"
+spo5 7	Sporulation	5 hour timepoint	420	"Chu et al., 1998"
+spo5 11	Sporulation	5 hour timepoint	660	"Chu et al., 1998"
+spo- early	Sporulation in ndt80 knockout	2 hour timepoint	120	"Chu et al., 1998"
+spo- mid	Sporulation in ndt80 knockout	5 hour timepoint	300	"Chu et al., 1998"
+heat 0	Heat Shock 25-37C	time 0	0	
+heat 10	Heat Shock 25-37C	time 0	10	
+heat 20	Heat Shock 25-37C	time 0	20	
+heat 40	Heat Shock 25-37C	time 0	40	
+heat 80	Heat Shock 25-37C	time 0	80	
+heat 160	Heat Shock 25-37C	time 0	160	
+dtt 15	DTT Shock 1mm	time 0	15	
+dtt 30	DTT Shock 1mm	time 0	30	
+dtt 60	DTT Shock 1mm	time 0	60	
+dtt 120	DTT Shock 1mm	time 0	120	
+cold 0	Cold Shock 25-11	time 0	0	
+cold 20	Cold Shock 25-12	time 0	20	
+cold 40	Cold Shock 25-13	time 0	40	
+cold 160	Cold Shock 25-14	time 0	160	
+diau a	Diauxic Shift	time 0	540	"DeRisi, et al., 1997"
+diau b	Diauxic Shift	time 0	660	"DeRisi, et al., 1997"
+diau c	Diauxic Shift	time 0	780	"DeRisi, et al., 1997"
+diau d	Diauxic Shift	time 0	900	"DeRisi, et al., 1997"
+diau e	Diauxic Shift	time 0	1020	"DeRisi, et al., 1997"
+diau f	Diauxic Shift	time 0	1140	"DeRisi, et al., 1997"
+diau g	Diauxic Shift	time 0	1260	"DeRisi, et al., 1997"
+
+Last Updated on 12/7/98
+By Michael Eisen 
