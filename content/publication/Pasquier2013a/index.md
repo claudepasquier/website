@@ -14,9 +14,6 @@ title = "Frequent Pattern Mining in Attributed Trees"
 publication_types = [ "1",]
 ID = "Pasquier2013a"
 url_pdf = "files/pdf/Pasquier2013a.pdf"
-[[links]]
-name = "Conference Site"
-url = "http://pakdd2013.pakdd.org"
 
 [image]
 preview_only = "true"

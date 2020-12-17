@@ -22,10 +22,6 @@ url_pdf = "files/pdf/Attali2001b.pdf"
 name = "Article Link"
 url = "http://linkinghub.elsevier.com/retrieve/pii/S1571066104809290"
 
-[[links]]
-name = "Journal Site"
-url = "https://www.etaps.org/2001"
-
 [image]
 preview_only = "true"
 +++

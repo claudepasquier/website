@@ -58,9 +58,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Claude_Pasquier
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/claude-pasquier/
+#- icon: mendeley
+#  icon_pack: ai
+#  link: https://www.mendeley.com/profiles/claude-pasquier/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/2879386/claude-pasquier

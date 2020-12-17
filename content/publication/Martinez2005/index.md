@@ -14,7 +14,7 @@ ID = "Martinez2005"
 url_pdf = "files/pdf/Martinez2005.pdf"
 [[links]]
 name = "Conference Site"
-url = "http://www.inescporto.pt/%7ejgama/ecmlpkdd05"
+url = "https://link.springer.com/book/10.1007/11564126"
 
 [image]
 preview_only = "true"

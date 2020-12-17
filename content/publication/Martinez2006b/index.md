@@ -19,7 +19,7 @@ ID = "Martinez2006b"
 url_pdf = "files/pdf/Martinez2006b.pdf"
 [[links]]
 name = "Article Link"
-url = "http://www.springerlink.com/content/dr211766w10856r2/"
+url = "https://link.springer.com/chapter/10.1007/11893318_34"
 
 [[links]]
 name = "Conference Site"
