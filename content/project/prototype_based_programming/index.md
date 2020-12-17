@@ -51,7 +51,7 @@ Little research was devoted to the theme of the representation and handling of s
 However, one realizes that there is still a lot of work to be done when one considers that computer programs are a simplified form of documents for which there are already problems of organization, sharing, interpretation, generation or dynamic modification.
 As with programs, the processing of structured documents requires the use of abstract grammars to define the syntactic and semantic rules of their composition.
 In addition, the introduction of active structured documents (i.e. whose abstract representation can evolve dynamically) requires the implementation of mechanisms to organize the different document models and to describe the evolution of several versions of the same document.
-There are also crucial questions about the reuse of documents and their interoperability in the case of heterogeneous systems [@Pasquier1991].
+There are also crucial questions about the reuse of documents and their interoperability in the case of heterogeneous systems [^Pasquier1991].
 
 ## Results
 
@@ -74,6 +74,7 @@ Its underlying mechanism relied on prototype-based programming, a promising new 
 * [BIBLE](/software/bible): A system for Design and Management of Context-Controlled Documents
 
 ## Related publications
+[^Pasquier1991]: {{< cite page="/publication/Pasquier1991" view="4" >}}
 [^Pasquier1992]: {{< cite page="/publication/Pasquier1992" view="4" >}}
 [^Pasquier1994]: {{< cite page="/publication/Pasquier1994" view="4" >}}
 
