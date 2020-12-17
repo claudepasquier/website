@@ -72,9 +72,12 @@ This system, which limits the necessary code at the client side to the strict mi
 The project is strongly based on XML and object technologies and is generic and highly configurable.
 In addition to the possibilities of graphical editing on views that can be distributed over a network, SmartTools allows to automatically generate tools (parser, displays, visitors on the document structure) from a language specification.
 I participated in the development of SmartTools and ensured the transfer of skills between INRIA's Oasis team and Schlumberger.
-In particular, I used the tools provided by the SmartTools software factory to develop an application dedicated to JavaCard operating at the source and bytecode level in an industrial context [@Attali2001a;@Attali2001b;@Parigot2002].
+In particular, I used the tools provided by the SmartTools software factory to develop an application dedicated to JavaCard operating at the source and bytecode level in an industrial context [^Attali2001a] [^Attali2001b] [^Parigot2002].
 
 ## Softwares
 * [KeTuK](/software/ketuk): Java based toolkit allowing applications to map XML documents with a set of Java Beans
 
 ## Related publications
+[^Attali2001a]: {{< cite page="/publication/Attali2001a" view="4" >}}
+[^Attali2001b]: {{< cite page="/publication/Attali2001b" view="4" >}}
+[^Parigot2002]: {{< cite page="/publication/Parigot2002" view="4" >}}
