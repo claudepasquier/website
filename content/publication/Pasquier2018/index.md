@@ -1,5 +1,4 @@
 +++
-type = "Habilitation Thesis"
 audience = "N"
 langid = "french"
 keywords = "evolutionary algorithm,gene annotation,gene expression analysis,genome analysis,graph mining,miRNA"
