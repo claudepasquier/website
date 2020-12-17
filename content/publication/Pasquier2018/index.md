@@ -1,10 +1,12 @@
 +++
-date = "2018-01-01"
-title = "Contributions à la fouille de données complexes"
-publication = "Université Côte d'Azur"
-keywords = "evolutionary algorithm,gene annotation,gene expression analysis,genome analysis,graph mining,miRNA"
-authors = [ "Claude Pasquier",]
+type = "Habilitation Thesis"
 audience = "N"
+langid = "french"
+keywords = "evolutionary algorithm,gene annotation,gene expression analysis,genome analysis,graph mining,miRNA"
+publication = "Université Côte d'Azur"
+date = "2018"
+authors = [ "Claude Pasquier",]
+title = "Contributions à la fouille de données complexes"
 publication_types = [ "7",]
 ID = "Pasquier2018"
 

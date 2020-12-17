@@ -1,16 +1,17 @@
 +++
-date = "2020-01-01"
-volume = "88"
-title = "Computational prediction of miRNA / mRNA duplexomes at the whole human genome scale reveals functional subnetworks of interacting genes with embedded miRNA annealing motifs"
-publisher = "Elsevier Ltd"
-pages = "107366"
-keywords = "genome analysis, miRNA"
-publication = "Computational Biology and Chemistry"
-issn = "1476-9271"
-doi = "10.1016/j.compbiolchem.2020.107366"
-authors = [ "Claude Pasquier", "Alain Robichon",]
 impact_factor = "1.85"
 audience = "I"
+langid = "english"
+keywords = "genome analysis"
+doi = "10.1016/j.compbiolchem.2020.107366"
+issn = "1476-9271"
+publisher = "Elsevier Ltd"
+pages = "107366"
+volume = "88"
+publication = "Computational Biology and Chemistry"
+date = "2020"
+authors = [ "Claude Pasquier", "Alain Robichon",]
+title = "Computational Prediction of miRNA / mRNA Duplexomes at the Whole Human Genome Scale Reveals Functional Subnetworks of Interacting Genes with Embedded miRNA Annealing Motifs"
 publication_types = [ "2",]
 ID = "Pasquier2020c"
 url_pdf = "files/pdf/Pasquier2020c.pdf"
