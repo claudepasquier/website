@@ -1,5 +1,4 @@
 +++
-type = "PhD Thesis"
 audience = "N"
 langid = "french"
 keywords = "language-based systems"
