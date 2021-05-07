@@ -93,7 +93,7 @@ email = "forename.surname@univ-cotedazur.fr"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Polytech Nice-Sophia, 930 route des Colles", city = "Sophia Antipolis", postcode = "06903", country = "France", country_code = "FR"}
+address = {street = "Campus SophiaTech, 930 route des Colles", city = "Sophia Antipolis", postcode = "06903", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
