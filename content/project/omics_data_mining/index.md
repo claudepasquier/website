@@ -86,7 +86,8 @@ GenMiner allows to search for association rules using a much smaller minimum sup
 In addition, GenMiner significantly reduces the number of extracted rules, making it much easier for the end user to explore and interpret [^Martinez2007] [^Martinez2008a] [^Martinez2008b].
 
 Alongside these activities, research was also carried out on the parallelization of the Blast algorithm [^Anand2004].
-Collaborations with biologists still continue, resulting in collaborative research where we are primarily responsible for data analysis [^Pasquier2014a].
+Collaborations with biologists still continue, resulting in collaborative research where we are primarily responsible for data analysis [^Pasquier2014a] [^Pasquier2020c] [^Pasquier2021]
+.
 
 ## Funding
 
@@ -154,4 +155,6 @@ Collaborations with biologists still continue, resulting in collaborative resear
 [^Martinez2008b]: {{< cite page="/publication/Martinez2008b" view="4" >}}
 [^Anand2004]: {{< cite page="/publication/Anand2004" view="4" >}}
 [^Pasquier2014a]: {{< cite page="/publication/Pasquier2014a" view="4" >}}
+[^Pasquier2020c]: {{< cite page="/publication/Pasquier2020c" view="4" >}}
+[^Pasquier2021]: {{< cite page="/publication/Pasquier2021" view="4" >}}
 
