@@ -84,7 +84,7 @@ The distribution of the genes for which transcripts are engaged in intermolecula
 This trend was also observed for the genes showing very low expression from the 8-12-hour embryonic to larval stage 2.
 These results suggest a genome-wide scale of mRNA homeostasis via RNAi metabolism and could extend the known roles of canonical miRNAs and hairpin RNAs [^Pasquier2020].
 
-![](dsRNAs.png){width=50%}
+![](dsRNAs.png "{width=50%}")
 **Network of RNA-RNA interactions in which central genes are involved in development, morphogenesis and neurogenesis processes.**
 
 ### Active module identification
