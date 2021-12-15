@@ -71,7 +71,7 @@ We have undertaken an in silico study to locate, quantify and analyze triplex DN
 Our analyses, which identified many potential triplex sites within the genes, strongly suggest that some RNA fragments, coding or not, could have a significant influence on many chromosomal loci for large-scale genetic or epigenetic controls.
 This study paves the way for a new possible pathway for genetic regulation through RNA fragments [^Pasquier2017a].
 
-![](lncRNA_clusters.png){width=70%}
+![](lncRNA_clusters.png "width=1%}")
 **Network of genetic interactions via lncRNA:DNA triplex formation highlighting 5 sub-networks corresponding to distinct processes.**
 *More details can be found in our article on triplex analysis [^Pasquier2017a].*
 
