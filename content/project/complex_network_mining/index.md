@@ -83,6 +83,7 @@ The computationally predicted interactions have been modeled as a network in whi
 The distribution of the genes for which transcripts are engaged in intermolecular segmental pairing is largely lacking in the gene collections defined as showing no expression in each individual developmental stage from early embryos to adulthood.
 This trend was also observed for the genes showing very low expression from the 8-12-hour embryonic to larval stage 2.
 These results suggest a genome-wide scale of mRNA homeostasis via RNAi metabolism and could extend the known roles of canonical miRNAs and hairpin RNAs [^Pasquier2020].
+The same approach has been use to analyse the potential interactions between SARS-CoV-2 genome and human RNAs[^Pasquier2021]
 
 ![](dsRNAs.png "Network of RNA-RNA interactions")
 **Network of RNA-RNA interactions in which central genes are involved in development, morphogenesis and neurogenesis processes.**
@@ -98,7 +99,7 @@ These include a population-based meta-heuristics based on new crossover and muta
 Sentiment analysis consists of automatically determining the polarity (positive, negative or neutral) of documents.
 In this field of research, we particularly study how different polarities, depending on the domain, can be learned for the same concept.
 The approach we are developing consists in combining a multidimensional graph representing the semantics of terms with a method of propagation of polarities using fuzzy logic.
-Our method shows improved performance over the state of the art, good cross-domain generalization capabilities, and an excellent coverage [^Pasquier2020a].
+Our method shows improved performance over the state of the art, good cross-domain generalization capabilities, and an excellent coverage [^Pasquier2020b].
 
 #### Funding
 
@@ -126,6 +127,7 @@ Our method shows improved performance over the state of the art, good cross-doma
 [^Pallez2017]: {{< cite page="/publication/Pallez2017" view="4" >}}
 [^Pasquier2017a]: {{< cite page="/publication/Pasquier2017a" view="4" >}}
 [^Pasquier2020]: {{< cite page="/publication/Pasquier2020" view="4" >}}
+[^Pasquier2021]: {{< cite page="/publication/Pasquier2021" view="4" >}}
 [^Correa2019]: {{< cite page="/publication/Correa2019" view="4" >}}
-[^Pasquier2020a]: {{< cite page="/publication/Pasquier2020a" view="4" >}}
+[^Pasquier2020b]: {{< cite page="/publication/Pasquier2020b" view="4" >}}
 
