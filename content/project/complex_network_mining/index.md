@@ -71,7 +71,7 @@ We have undertaken an in silico study to locate, quantify and analyze triplex DN
 Our analyses, which identified many potential triplex sites within the genes, strongly suggest that some RNA fragments, coding or not, could have a significant influence on many chromosomal loci for large-scale genetic or epigenetic controls.
 This study paves the way for a new possible pathway for genetic regulation through RNA fragments [^Pasquier2017a].
 
-![](lncRNA_clusters.png "width=1%}")
+![](lncRNA_clusters.png "Network of genetic interactions via lncRNA:DNA triplex formation")
 **Network of genetic interactions via lncRNA:DNA triplex formation highlighting 5 sub-networks corresponding to distinct processes.**
 *More details can be found in our article on triplex analysis [^Pasquier2017a].*
 
@@ -84,7 +84,7 @@ The distribution of the genes for which transcripts are engaged in intermolecula
 This trend was also observed for the genes showing very low expression from the 8-12-hour embryonic to larval stage 2.
 These results suggest a genome-wide scale of mRNA homeostasis via RNAi metabolism and could extend the known roles of canonical miRNAs and hairpin RNAs [^Pasquier2020].
 
-![](dsRNAs.png "{width=50%}")
+![](dsRNAs.png "Network of RNA-RNA interactions")
 **Network of RNA-RNA interactions in which central genes are involved in development, morphogenesis and neurogenesis processes.**
 
 ### Active module identification
