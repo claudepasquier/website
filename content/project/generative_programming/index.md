@@ -78,6 +78,7 @@ In particular, I used the tools provided by the SmartTools software factory to d
 * [KeTuK](/software/ketuk): Java based toolkit allowing applications to map XML documents with a set of Java Beans
 
 ## Related publications
+[^Pasquier2000]: {{< cite page="/publication/Pasquier2000" view="4" >}}
 [^Attali2001a]: {{< cite page="/publication/Attali2001a" view="4" >}}
 [^Attali2001b]: {{< cite page="/publication/Attali2001b" view="4" >}}
 [^Parigot2002]: {{< cite page="/publication/Parigot2002" view="4" >}}
