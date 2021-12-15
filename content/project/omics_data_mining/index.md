@@ -74,7 +74,7 @@ Experiments show that using THEA not only makes it easy and quick to obtain all 
 The knowledge-driven approach consists of first finding co-annotated groups of genes and then, in a second step, integrating data on expression profiles.
 The [CGGA](/software/cgga) method (Co-expressed Gene Groups Analysis), which we developed, is part of this approach.
 The tests that have been carried out show that the functional annotations provided by CGGA reduce the complexity of the data analysis problem by integrating various types of information about genes.
-The experimental results showed the interest of the approach and made it possible to identify relevant information on the biological processes studied [^Martinez2005] [^Martinez2006a] [^Martinez2006] [^Martinez2006c] [^Martinez2008c] [^Pasquier2008b] [^Martinez2009].
+The experimental results showed the interest of the approach and made it possible to identify relevant information on the biological processes studied [^Martinez2005] [^Martinez2006a] [^Martinez2006c] [^Martinez2008c] [^Pasquier2008b] [^Martinez2009].
 
 #### Extraction of association rules from a heterogeneous set of gene data
 We have proposed the use of Association Rule Discovery (ARD) as a method capable of identifying rules linking any pieces of biological data and which does not impose any ordering over the use of data sources.
