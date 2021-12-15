@@ -56,6 +56,7 @@ GenMiner [^Martinez2007] [^Martinez2008b] [^Martinez2009] is a Java implementati
 
 #### Related publications
 [^Martinez2007]: {{< cite page="/publication/Martinez2007" view="4" >}}
+[^Martinez2008a]: {{< cite page="/publication/Martinez2008a" view="4" >}}
 [^Martinez2008b]: {{< cite page="/publication/Martinez2008b" view="4" >}}
 [^Martinez2009]: {{< cite page="/publication/Martinez2009" view="4" >}}
 

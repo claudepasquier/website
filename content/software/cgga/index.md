@@ -57,8 +57,8 @@ First, the gene rank hierarchy is constructed using SAM F-Scores and then, the C
 
 
 #### Related publications
-[^Martinez2006]: {{< cite page="/publication/Martinez2006" view="4" >}}
 [^Martinez2006a]: {{< cite page="/publication/Martinez2006a" view="4" >}}
 [^Martinez2006b]: {{< cite page="/publication/Martinez2006b" view="4" >}}
-[^Martinez2008a]: {{< cite page="/publication/Martinez2008a" view="4" >}}
+[^Martinez2006c]: {{< cite page="/publication/Martinez2006c" view="4" >}}
+[^Martinez2008c]: {{< cite page="/publication/Martinez2008c" view="4" >}}
 

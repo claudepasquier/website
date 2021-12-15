@@ -61,4 +61,5 @@ statistical criteria (data mining).
 
 #### Related publication
 [^Pasquier2004a]: {{< cite page="/publication/Pasquier2004a" view="4" >}}
+[^Pasquier2004b]: {{< cite page="/publication/Pasquier2004b" view="4" >}}
 
