@@ -64,7 +64,7 @@ Capitalizing on the work done on KeTuK, we worked on solutions to distribute edi
 The adopted principle consists in grouping on a server the XML documents to be edited as well as all the software applications needed for the editing.
 The editing operations performed by the clients (who interact on a custom view of the data) are transmitted to the server, which performs the appropriate operations on the central XML document and informs each client of the changes to be reflected in the views.
 The data that pass through the network concerns only XML codifications of the operations performed or to be performed.
-This system, which limits the necessary code at the client side to the strict minimum, is therefore particularly suitable for editing documents on equipment with limited resources [^@Pasquier2000].
+This system, which limits the necessary code at the client side to the strict minimum, is therefore particularly suitable for editing documents on equipment with limited resources [^Pasquier2000].
 
 #### Automatic generation of softwares from specifications
 
