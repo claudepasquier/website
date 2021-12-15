@@ -78,7 +78,7 @@ We have proposed two optimizations that make it possible, on the one hand, to tr
 #### A new condensed representation of weighted paths
 We have addressed the problem of extracting frequent weighted paths in a single attributed directed acyclic graph (aDAG) where each weight expresses the frequency of a transition.
 Frequent paths are used to analyze the causal relationship between sequences of events and/or attributes.
-As the number of patterns can be very large, we have designed a condensed representation for such collections[^Sanhes2013a] [^Sanhes2013b].
+As the number of patterns can be very large, we have designed a condensed representation for such collections[^Sanhes2013a] [^Sanhes2013b] [^Flouvat2020].
 
 #### Integrating mathematical models defined by experts into the extraction process 
 By noting that in many data science contexts, experts have often capitalized part of their knowledge in mathematical models, we have proposed to use these models to derive new constraints that can be used during the data mining phase to improve both pattern relevancy and computational efficiency 
@@ -109,6 +109,7 @@ We have thus obtained more relevant patterns, complementing or contradicting the
 [^Pasquier2017b]: {{< cite page="/publication/Pasquier2017b" view="4" >}}
 [^Sanhes2013a]: {{< cite page="/publication/Sanhes2013a" view="4" >}}
 [^Sanhes2013b]: {{< cite page="/publication/Sanhes2013b" view="4" >}}
+[^Flouvat2020]: {{< cite page="/publication/Flouvat2020" view="4" >}}
 [^Flouvat2014a]: {{< cite page="/publication/Flouvat2014a" view="4" >}}
 [^Flouvat2014b]: {{< cite page="/publication/Flouvat2014b" view="4" >}}
 
