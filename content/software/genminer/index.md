@@ -52,7 +52,7 @@ links = [{name="Download Code", url = "data/GenMiner.zip"}]
 | Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
 
 
-GenMiner [^Martinez2007] [^Martinez2008b] [^Martinez2009] is a Java implementation of the GenMiner algorithm for mining equivalence classes and minimal non-redundant association rule from gene expression data. This implementation integrates the R implementation of the Normalized Discretization method (NorDi) to preprocess gene expression data and the Java implementation of the JClose algorithm (JClose) to extract equivalence classes and minimal non-redundant association rules from these data.
+GenMiner [^Martinez2007] [^Martinez2008a] [^Martinez2008b] [^Martinez2009] is a Java implementation of the GenMiner algorithm for mining equivalence classes and minimal non-redundant association rule from gene expression data. This implementation integrates the R implementation of the Normalized Discretization method (NorDi) to preprocess gene expression data and the Java implementation of the JClose algorithm (JClose) to extract equivalence classes and minimal non-redundant association rules from these data.
 
 #### Related publications
 [^Martinez2007]: {{< cite page="/publication/Martinez2007" view="4" >}}

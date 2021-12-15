@@ -52,7 +52,7 @@ links = [{name="Download Binary", url = "data/CGGA.zip"}]
 | Authors        | Martinez, R., Pasquier, N., and Pasquier, C. |
 | Availability   | binary downloadable [here](data/CGGA.zip)         |
 
-CGGA (Co-expressed Gene Groups Analysis) [^Martinez2006] [^Martinez2006a] [^Martinez2006b] [^Martinez2008a] performs the extraction of bi-clusters of co-regulated genes from integrated gene expression data and gene annotations obtained from biological knowledge.
+CGGA (Co-expressed Gene Groups Analysis) [^Martinez2006a] [^Martinez2006b] [^Martinez2006c] [^Martinez2008c] performs the extraction of bi-clusters of co-regulated genes from integrated gene expression data and gene annotations obtained from biological knowledge.
 First, the gene rank hierarchy is constructed using SAM F-Scores and then, the CGGA algorithm is applied to group of co-expressed genes.
 
 

@@ -51,7 +51,7 @@ url_code = ""
 | Implementation | Java                                           |
 | Authors         | Pasquier, C. and Jevardat de Fombelle, K.      |
 
-THEA (Tools for High-throughput Experiments Analysis) [^Pasquier2004a] is an integrated
+THEA (Tools for High-throughput Experiments Analysis) [^Pasquier2004a] [^Pasquier2004b] is an integrated
 information processing system allowing convenient handling of data. It
 allows to automatically annotate data issued from classification systems
 with selected biological information coming from a knowledge base and to
