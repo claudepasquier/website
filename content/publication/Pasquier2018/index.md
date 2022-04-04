@@ -1,7 +1,7 @@
 +++
 audience = "N"
-langid = "french"
 keywords = "evolutionary algorithm,gene annotation,gene expression analysis,genome analysis,graph mining,miRNA"
+langid = "french"
 publication = "Université Côte d'Azur"
 date = "2018-09-20"
 authors = [ "Claude Pasquier",]

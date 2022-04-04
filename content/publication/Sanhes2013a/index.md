@@ -1,8 +1,8 @@
 +++
 conference_ranking = "A*"
 audience = "I"
-langid = "english"
 keywords = "graph mining"
+langid = "english"
 abstract = "Directed acyclic graphs can be used across many application domains. In this paper, we study a new pattern domain for supporting their analy- sis. Therefore, we propose the pattern language of weighted paths, primitive constraints that enable to specify their relevancy (e.g., frequency and com- pactness constraints), and algorithms that can com- pute the specified collections. It leads to a con- densed representation setting whose efficiency and scalability are empirically studied."
 location = "Beijing, China"
 pages = "1642–8"

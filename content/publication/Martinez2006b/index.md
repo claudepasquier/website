@@ -1,8 +1,8 @@
 +++
 conference_ranking = "B"
 audience = "I"
-langid = "english"
 keywords = "gene expression analysis"
+langid = "english"
 isbn = "978-3-540-46491-4"
 abstract = "Microarray technology produces vast amounts of data by measuring simultaneously the expression levels of thousands of genes under hundreds of biological conditions. Nowadays, one of the principal challenges in bioinfor- matics is the interpretation of huge data using different sources of information. We propose a novel data analysis method named CGGA (Co-expressed Gene Groups Analysis) that automatically finds groups of genes that are func- tionally enriched, i.e. have the same functional annotations, and are co- expressed. CGGA automatically integrates the information of microarrays, i.e. gene ex- pression profiles, with the functional annotations of the genes obtained by the genome-wide information sources such as Gene Ontology (GO)1. By applying CGGA to well-known microarray experiments, we have identi- fied the principal functionally enriched and co-expressed gene groups, and we have shown that this approach enhances and accelerates the interpretation of DNA microarray experiments."
 doi = "10.1007/11893318_34"

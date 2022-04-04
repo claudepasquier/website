@@ -1,7 +1,7 @@
 +++
 audience = "N"
-langid = "french"
 keywords = "graph mining"
+langid = "french"
 abstract = "Pour assister la découverte de connaissances à partir de données, de nombreuses techniques de calcul de motifs ont été proposées. L’un des verrous à leurs disséminations est que nombre des motifs extraits apparaissent triviaux et/ou inintéressants au regard de la connaissance du domaine et des experts. Les méthodes de fouille de données sous contraintes usuelles ne permettent qu’une prise en compte limitée de ces connaissances et de l’intérêt dit subjectif. Pourtant, il existe souvent des modèles mathématiques qui capturent une partie importante de la connaissance ex- perte. Nous proposons ici d’exploiter de tels modèles pour dériver des contraintes utilisables au cours des processus de fouille et ainsi améliorer la pertinence des motifs calcu- lés tout en gagnant en performances. L’approche est géné- rique mais nous l’étudions empiriquement dans le cas de modèles de l’aléa érosion pour améliorer la pertinence de motifs ensemblistes dans des données réelles."
 location = "Rouen, France"
 date = "2014-06-30"

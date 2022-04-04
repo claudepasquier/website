@@ -1,7 +1,7 @@
 +++
 audience = "I"
-langid = "english"
 keywords = "natural language processing"
+langid = "english"
 abstract = "This paper describes the design of a system for extracting keyphrases from a single document The principle of the algorithm is to cluster sentences of the documents in order to highlight parts of text that are semantically related. The clusters of sentences, that reflect the themes of the document, are then analyzed to find the main topics of the text. Finally, the most important words, or groups of words, from these topics are proposed as keyphrases."
 location = "Uppsala, Sweden"
 publisher = "Association for Computational Linguistics"

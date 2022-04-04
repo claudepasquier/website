@@ -22,7 +22,7 @@ url = "https://www.life-science-alliance.org/content/5/2/e202101119"
 
 [[links]]
 name = "Journal Site"
-url = "\\href https://www.life-science-alliance.org/https://www.frontiersin.org/journals/oncology"
+url = "https://www.life-science-alliance.org/"
 
 [image]
 preview_only = "true"

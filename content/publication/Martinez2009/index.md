@@ -1,7 +1,7 @@
 +++
 audience = "I"
-langid = "english"
 keywords = "gene expression analysis"
+langid = "english"
 abstract = "During the last decade, several clustering and association rule mining techniques have been applied to highlight groups of co-regulated genes in gene expression data. Nowadays, integrating these data and biological knowledge into a single framework has become a major challenge to improve the relevance of mined patterns and simplify their interpretation by biologists. GenMiner was developed for mining association rules from such integrated datasets. It combines a new nomalized discretization method, called NorDi, and the JClose algorithm to extract condensed representations for association rules. Experimental results show that GenMiner requires less memory than Apriori based approaches and that it improves the relevance of extracted rules. Moreover, association rules obtained revealed significant co-annotated and co-expressed gene patterns showing important biological relationships supported by recent biological literature."
 doi = "10.1007/978-3-642-02504-4_7"
 pages = "78–90"

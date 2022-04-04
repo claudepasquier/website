@@ -1,7 +1,7 @@
 +++
 audience = "N"
-langid = "french"
 keywords = "language-based systems"
+langid = "french"
 location = "Caen, France"
 date = "1991-12-05"
 editor = "(SEPT), Service d'études communes de La Poste et de France Télécom"

@@ -1,7 +1,7 @@
 +++
 audience = "N"
-langid = "french"
 keywords = "graph mining"
+langid = "french"
 abstract = "Les graphes orientés acycliques attribués peuvent être utilisés dans beaucoup de domaines applicatif. Dans ce papier, nous étudions un nouveau domaine de motif pour permettre leur analyse : les chemins pondérés fréquents. Nous proposons en conséquence des contraintes primitives permettant d’évaluer leur pertinence (par exemple, les contraintes de fréquence et de compacité), et un algorithme extrayant ces solutions. Nous aboutissons à une représentation condensée dont l’efficacité et le passage à l’échelle sont étudiés empiriquement."
 location = "Toulouse, France"
 publisher = "RNTI"

@@ -1,7 +1,7 @@
 +++
 audience = "N"
-langid = "french"
 keywords = "graph mining"
+langid = "french"
 abstract = "Les graphes orientés attribués sont des graphes orientés dans lesquels les nœuds sont associés à un ensemble d’attributs. De nombreuses données, is- sues du monde réel, peuvent être représentées par ce type de structure, mais encore peu d’algorithmes sont capables de les traiter directement. La fouille des graphes attribués est difficile, car elle nécessite de combiner l’exploration de la structure du graphe avec l’identification d’itemsets fréquents. De plus, du fait de l’explosion combinatoire des itemsets, les isomorphismes de sous-graphes, dont la présence impacte énormément les performances des algorithmes de fouille, sont beaucoup plus nombreux que dans les graphes étiquetés. Dans cet article, nous présentons une nouvelle méthode de fouille de données qui permet d’extraire des motifs fréquents à partir d’un ou de plusieurs graphes orientés attribués. Nous montrons comment réduire l’explosion combinatoire provoquée par les isomorphismes de sous-graphes en traitant de manière par- ticulière les motifs automorphes"
 location = "Rennes, France"
 publisher = "RNTI"

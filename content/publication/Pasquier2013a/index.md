@@ -1,8 +1,8 @@
 +++
 conference_ranking = "A"
 audience = "I"
-langid = "english"
 keywords = "graph mining"
+langid = "english"
 abstract = "Frequent pattern mining is an important data mining task with a broad range of applications. Initially focused on the discovery of frequent itemsets, studies were extended to mine structural forms like sequences, trees or graphs. In this paper, we introduce a new data mining method that consists in mining new kind of patterns in a collection of attributed trees (atrees). Attributed trees are trees in which vertices are associated with itemsets. Mining this type of patterns (called asubtrees), which combines tree mining and itemset mining, requires the exploration of a huge search space. We present several new algorithms for attributed trees mining and show that their implementations can efficiently list frequent patterns in a database of several thousand of attributed trees."
 location = "Gold Coast"
 publisher = "Springer Berlin Heidelberg"
