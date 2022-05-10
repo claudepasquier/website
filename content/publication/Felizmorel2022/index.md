@@ -22,7 +22,7 @@ url = "https://www.mdpi.com/1999-4923/14/5/988"
 
 [[links]]
 name = "Journal Site"
-url = "https://\\href www.mdpi.com/journal/pharmaceuticswww.mdpi.com/journal/pharmaceutics"
+url = "https://www.mdpi.com/journal/pharmaceutics"
 
 [image]
 preview_only = "true"
