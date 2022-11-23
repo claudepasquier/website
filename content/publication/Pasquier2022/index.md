@@ -1,4 +1,5 @@
 +++
+impact_factor = "5.781"
 audience = "I"
 keywords = "active module detection,gene expression analysis"
 langid = "english"

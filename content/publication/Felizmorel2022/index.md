@@ -1,4 +1,5 @@
 +++
+impact_factor = "6.525"
 audience = "I"
 keywords = "adrenocortical carcinoma,cancer stem cells,chemotherapy resistance,metastases,Patched,persistent cells"
 langid = "english"
