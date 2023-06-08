@@ -10,7 +10,7 @@ summary = "Active Module Identification through Network Embedding."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Graph Mining"]
+tags = ["Computational Biology", "Gene Expression Analysis", "Graph Mining"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
