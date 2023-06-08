@@ -10,7 +10,7 @@ summary = "Mining association rule from gene expression."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Gene Expression Analysis", "Data Mining", "Ended Project"]
+tags = ["Gene Expression Analysis", "Data Mining"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"

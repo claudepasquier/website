@@ -10,7 +10,7 @@ summary = "Mining frequent patterns in attributed trees."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Graph Mining", "Ended Project"]
+tags = ["Attributed Graph Mining", "Graph Mining"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"

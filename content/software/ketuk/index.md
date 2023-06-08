@@ -10,7 +10,7 @@ summary = "Mapping XML documents with a set of Java Beans."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Software Engineering", "XML Documents Editing", "Ended Project"]
+tags = ["Software Engineering", "XML Documents Editing"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Go to Project Site", url = "http://www-sop.inria.fr/lemme/Claude.Pasquier/ketuk/"}, {name="Get Code", url="data/KeTuK.zip"}]
+links = [{name="Go to Project Site", url = "http://www-sop.inria.fr/lemme/Claude.Pasquier/ketuk/"}, {name="Get Source Code", url="data/KeTuK.zip"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -10,7 +10,7 @@ summary = "Mining frequent patterns in attributed graphs."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Graph Mining", "Ended Project"]
+tags = ["Attributed Graph Mining", "Graph Mining"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
@@ -32,7 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Download Code", url = "https://github.com/claudepasquier/aadage"}]
+links = [{name="Get Source Code", url = "https://github.com/claudepasquier/aadage"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

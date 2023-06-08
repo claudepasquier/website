@@ -10,7 +10,7 @@ summary = "Management of Context-Controlled Documents."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Software Engineering", "Ended Project"]
+tags = ["Software Engineering"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""

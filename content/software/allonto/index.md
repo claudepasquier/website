@@ -10,7 +10,7 @@ summary = "Triple store with OWL query answering."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Semantic Data Integration", "Ended Project"]
+tags = ["Semantic Data Integration", "Computational Biology"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""

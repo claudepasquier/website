@@ -10,7 +10,7 @@ summary = "Periodicity analysis in molecular sequences."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Protein Structure Prediction", "Ended Project"]
+tags = ["Computational Biology", "Protein Structure Prediction"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"

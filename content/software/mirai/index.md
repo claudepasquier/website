@@ -10,7 +10,7 @@ summary = "Prediction of microRNA-disease associations."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Graph Mining", "Ended Project"]
+tags = ["Computational Biology", "Graph Mining"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"

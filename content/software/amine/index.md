@@ -32,8 +32,7 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-links = [{name="Get Source Code", url = "https://github.com/claudepasquier/amine"}]
-links = [{name="Execute Online", url = "http://amine.i3s.unice.fr"}]
+links = [{name="Get Source Code", url = "https://github.com/claudepasquier/amine"} {name="Execute Online", url = "http://amine.i3s.unice.fr"}]
 
 
 # Featured image

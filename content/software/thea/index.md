@@ -10,7 +10,7 @@ summary = "Automatic annotation of genes."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Gene Expression Analysis", "Ended Project"]
+tags = ["Computational Biology", "Gene Expression Analysis"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://athina.biol.uoa.gr/FT/"

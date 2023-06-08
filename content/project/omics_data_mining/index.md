@@ -10,7 +10,7 @@ summary = "Semantic integration and analysis of biological data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Computational Biology", "Active Project"]
+tags = ["Semantic Data Integration", "Computational Biology", "Active Project"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
