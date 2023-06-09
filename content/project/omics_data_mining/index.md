@@ -156,4 +156,7 @@ Collaborations with biologists still continue, resulting in collaborative resear
 [^Anand2004]: {{< cite page="/publication/Anand2004" view="4" >}}
 [^Pasquier2014a]: {{< cite page="/publication/Pasquier2014a" view="4" >}}
 [^Pasquier2020c]: {{< cite page="/publication/Pasquier2020c" view="4" >}}
+[^Braud2022]: {{< cite page="/publication/Braud2022" view="4" >}}
+[^FelizMorel2022]: {{< cite page="/publication/FelizMorel2022" view="4" >}}
+[^Lié2022]: {{< cite page="/publication/Lié2022" view="4" >}}
 
