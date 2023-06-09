@@ -87,7 +87,6 @@ In addition, GenMiner significantly reduces the number of extracted rules, makin
 
 Alongside these activities, research was also carried out on the parallelization of the Blast algorithm [^Anand2004].
 Collaborations with biologists still continue, resulting in collaborative research where we are primarily responsible for data analysis [^Pasquier2014a] [^Pasquier2020c] [^Braud2022] [^FelizMorel2022] [^Lié2022].
-.
 
 ## Funding
 
