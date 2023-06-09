@@ -94,9 +94,6 @@ Statistical approaches using only gene expression data are based on an overly si
 However, a phenotype is rarely a direct consequence of the activity of a single gene, but rather reflects the interplay of several genes to perform certain molecular processes.
 We are working on different approaches to analyze gene activity in the light of our knowledge about their molecular interactions.
 These include a population-based meta-heuristics based on new crossover and mutation operators [^Correa2019] as well as methods based on network embedding[^Pasquier2021a].
-The developed methods have been used to study the role of phosphorylation to orchestrate large interactive networks of proteins, and the intertwined
-phospho-landscape in these networks[^Pasquier2022] and uncovered the dynamic gene networks that play a role in female drosophila brain plasticity after mating[^Pasquier2022a].
-
 The methods developed have been applied to examinate the importance of phosphorylation in coordinating large networks of interactive proteins, as well as exploring the interconnected landscape of phosphorylation within these networks[^Pasquier2022]. Additionally, these methods revealed the dynamic gene networks that contribute to the post-mating plasticity in the female Drosophila Brain[^Pasquier2022a].
 
 ### Sentiment analysis and multi-domain transfer
@@ -135,5 +132,7 @@ Our method shows improved performance over the state of the art, good cross-doma
 [^Pasquier2021]: {{< cite page="/publication/Pasquier2021" view="4" >}}
 [^Correa2019]: {{< cite page="/publication/Correa2019" view="4" >}}
 [^Pasquier2021a]: {{< cite page="/publication/Pasquier2021a" view="4" >}}
+[^Pasquier2022]: {{< cite page="/publication/Pasquier2022" view="4" >}}
+[^Pasquier2022a]: {{< cite page="/publication/Pasquier2022a" view="4" >}}
 [^Pasquier2020b]: {{< cite page="/publication/Pasquier2020b" view="4" >}}
 
