@@ -93,7 +93,7 @@ The identification of condition specific gene sets from transcriptomic experimen
 Statistical approaches using only gene expression data are based on an overly simplistic assumption that the genes with the most altered expressions are the most important in the process under study.
 However, a phenotype is rarely a direct consequence of the activity of a single gene, but rather reflects the interplay of several genes to perform certain molecular processes.
 We are working on different approaches to analyze gene activity in the light of our knowledge about their molecular interactions.
-These include a population-based meta-heuristics based on new crossover and mutation operators [^Correa2019] as well as methods based on network embedding.
+These include a population-based meta-heuristics based on new crossover and mutation operators [^Correa2019] as well as methods based on network embedding [^Pasquier2021a].
 
 ### Sentiment analysis and multi-domain transfer
 Sentiment analysis consists of automatically determining the polarity (positive, negative or neutral) of documents.
@@ -120,6 +120,7 @@ Our method shows improved performance over the state of the art, good cross-doma
 
 #### Softwares
 * [MIRAI](/software/mirai): Prédiction of miRNA-disease associations
+* [AMINE](/software/amine): Active Module Identification through Network Embedding
 
 #### Publications related to this theme
 [^Pasquier2018]: {{< cite page="/publication/Pasquier2018" view="4" >}}
@@ -129,5 +130,6 @@ Our method shows improved performance over the state of the art, good cross-doma
 [^Pasquier2020]: {{< cite page="/publication/Pasquier2020" view="4" >}}
 [^Pasquier2021]: {{< cite page="/publication/Pasquier2021" view="4" >}}
 [^Correa2019]: {{< cite page="/publication/Correa2019" view="4" >}}
+[^Pasquier2021a]: {{< cite page="/publication/Pasquier2021a" view="4" >}}
 [^Pasquier2020b]: {{< cite page="/publication/Pasquier2020b" view="4" >}}
 
