@@ -62,18 +62,18 @@ Computational methods can make an important contribution to this goal.
 
 To this end, we have been working on a new method to predict associations between miRNAs and diseases.
 Its principle involves representing miRNAs and their links with elements highlighting various facets of these molecules (targeted genes, neighboring miRNAs, terms associated with them in scientific articles) in the form of a multidimensional network and then projecting this network into a vector space in order to use metrics within this space to predict MiRNA-disease associations.
-The performance of our algorithm, [MiRAI](/software/mirai), was characteristic of an excellent classifier and corresponded to the state of the art in the field [^Pasquier2016a].
-Subsequently, we proposed an improvement by using a parallel surrogate-assisted evolutionary algorithm to automatically find an optimal configuration of our predictive method [^Pallez2017].
+The performance of our algorithm, [MiRAI](/software/mirai), was characteristic of an excellent classifier and corresponded to the state of the art in the field[^Pasquier2016a].
+Subsequently, we proposed an improvement by using a parallel surrogate-assisted evolutionary algorithm to automatically find an optimal configuration of our predictive method[^Pallez2017].
 
 ### Study of triplex topology
 It has been known since the 1960s that some short RNA sequences are likely to match particular areas of DNA to form triple-stranded structures called [triplex DNA](https://en.wikipedia.org/wiki/Triple-stranded_DNA).
 We have undertaken an in silico study to locate, quantify and analyze triplex DNA on a genome in order to increase our knowledge of these structures.
 Our analyses, which identified many potential triplex sites within the genes, strongly suggest that some RNA fragments, coding or not, could have a significant influence on many chromosomal loci for large-scale genetic or epigenetic controls.
-This study paves the way for a new possible pathway for genetic regulation through RNA fragments [^Pasquier2017a].
+This study paves the way for a new possible pathway for genetic regulation through RNA fragments[^Pasquier2017a].
 
 ![](lncRNA_clusters.png "Network of genetic interactions via lncRNA:DNA triplex formation")
 **Network of genetic interactions via lncRNA:DNA triplex formation highlighting 5 sub-networks corresponding to distinct processes.**
-*More details can be found in our article on triplex analysis [^Pasquier2017a].*
+*More details can be found in our article on triplex analysis[^Pasquier2017a].*
 
 ### Computational analysis of double-stranded RNA
 RNA interference (RNAi) refers to a conserved post-transcriptional mechanism for the degradation of RNA by short double-stranded RNAs (dsRNAs).
@@ -82,8 +82,8 @@ We report segments originating from pre-mRNAs introns and exons as well as lncRN
 The computationally predicted interactions have been modeled as a network in which we have noted that the central genes (those potentially most regulated by RNA interference) are strongly involved in the processes of development, morphogenesis and neurogenesis.
 The distribution of the genes for which transcripts are engaged in intermolecular segmental pairing is largely lacking in the gene collections defined as showing no expression in each individual developmental stage from early embryos to adulthood.
 This trend was also observed for the genes showing very low expression from the 8-12-hour embryonic to larval stage 2.
-These results suggest a genome-wide scale of mRNA homeostasis via RNAi metabolism and could extend the known roles of canonical miRNAs and hairpin RNAs [^Pasquier2020].
-The same approach has been use to analyse the potential interactions between SARS-CoV-2 genome and human RNAs[^Pasquier2021]
+These results suggest a genome-wide scale of mRNA homeostasis via RNAi metabolism and could extend the known roles of canonical miRNAs and hairpin RNAs[^Pasquier2020].
+The same approach has been use to analyse the potential interactions between SARS-CoV-2 genome and human RNAs[^Pasquier2021].
 
 ![](dsRNAs.png "Network of RNA-RNA interactions")
 **Network of RNA-RNA interactions in which central genes are involved in development, morphogenesis and neurogenesis processes.**
@@ -93,13 +93,17 @@ The identification of condition specific gene sets from transcriptomic experimen
 Statistical approaches using only gene expression data are based on an overly simplistic assumption that the genes with the most altered expressions are the most important in the process under study.
 However, a phenotype is rarely a direct consequence of the activity of a single gene, but rather reflects the interplay of several genes to perform certain molecular processes.
 We are working on different approaches to analyze gene activity in the light of our knowledge about their molecular interactions.
-These include a population-based meta-heuristics based on new crossover and mutation operators [^Correa2019] as well as methods based on network embedding [^Pasquier2021a].
+These include a population-based meta-heuristics based on new crossover and mutation operators [^Correa2019] as well as methods based on network embedding[^Pasquier2021a].
+The developed methods have been used to study the role of phosphorylation to orchestrate large interactive networks of proteins, and the intertwined
+phospho-landscape in these networks[^Pasquier2022] and uncovered the dynamic gene networks that play a role in female drosophila brain plasticity after mating[^Pasquier2022a].
+
+The methods developed have been applied to examinate the importance of phosphorylation in coordinating large networks of interactive proteins, as well as exploring the interconnected landscape of phosphorylation within these networks[^Pasquier2022]. Additionally, these methods revealed the dynamic gene networks that contribute to the post-mating plasticity in the female Drosophila Brain[^Pasquier2022a].
 
 ### Sentiment analysis and multi-domain transfer
 Sentiment analysis consists of automatically determining the polarity (positive, negative or neutral) of documents.
 In this field of research, we particularly study how different polarities, depending on the domain, can be learned for the same concept.
 The approach we are developing consists in combining a multidimensional graph representing the semantics of terms with a method of propagation of polarities using fuzzy logic.
-Our method shows improved performance over the state of the art, good cross-domain generalization capabilities, and an excellent coverage [^Pasquier2020b].
+Our method shows improved performance over the state of the art, good cross-domain generalization capabilities, and an excellent coverage[^Pasquier2020b].
 
 #### Funding
 
