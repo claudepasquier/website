@@ -52,9 +52,10 @@ links = [{name="Get Source Code", url = "https://github.com/claudepasquier/amine
 | Implementation | Python                                                  |
 | Author         | Pasquier C.                                             |
 
-AMINE (Active Module Identification through Network Embedding) [^Pasquier2021a] is a Python implementation of a mehod performing the identification of active modules in a biological network.
+AMINE (Active Module Identification through Network Embedding) [^Pasquier2021a] [^Pasquier2023] is a Python implementation of a mehod performing the identification of active modules in a biological network.
 
 
 #### Related publication
 [^Pasquier2021a]: {{< cite page="/publication/Pasquier2021a" view="4" >}}
+[^Pasquier2023]: {{< cite page="/publication/Pasquier2023" view="4" >}}
 
