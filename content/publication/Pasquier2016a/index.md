@@ -1,5 +1,5 @@
 +++
-impact_factor = "5.228"
+impact_factor = "4.259"
 audience = "I"
 keywords = "miRNA"
 langid = "english"

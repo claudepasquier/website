@@ -1,5 +1,5 @@
 +++
-impact_factor = "1.85"
+impact_factor = "2.877"
 audience = "I"
 keywords = "genome analysis"
 langid = "english"

@@ -1,5 +1,5 @@
 +++
-impact_factor = "2.718"
+impact_factor = "4.547"
 audience = "I"
 keywords = "protein structure prediction"
 langid = "english"
@@ -10,7 +10,7 @@ publisher = "Oxford Academic"
 pages = "387–390"
 number = "6"
 volume = "14"
-publication = "Protein Engineering Design and Selection"
+publication = "Protein Engineering"
 date = "2001-06-01"
 editor = "Oxford"
 authors = [ "Theodore Liakopoulos", "Claude Pasquier", "Stavros Hamodrakas",]

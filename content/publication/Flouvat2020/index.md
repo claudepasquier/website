@@ -1,5 +1,5 @@
 +++
-impact_factor = "2.936"
+impact_factor = "2.822"
 audience = "I"
 keywords = "graph mining"
 langid = "english"

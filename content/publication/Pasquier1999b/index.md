@@ -1,5 +1,5 @@
 +++
-impact_factor = "3.209"
+impact_factor = "4.344"
 audience = "I"
 keywords = "protein structure prediction"
 langid = "english"
@@ -10,7 +10,7 @@ publisher = "Oxford Academic"
 pages = "631–634"
 number = "8"
 volume = "12"
-publication = "Protein Engineering Design and Selection"
+publication = "Protein Engineering"
 date = "1999-08-01"
 editor = "Oxford"
 authors = [ "Claude Pasquier", "Stavros Hamodrakas",]

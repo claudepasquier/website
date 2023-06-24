@@ -1,4 +1,5 @@
 +++
+impact_factor = "1.318"
 audience = "N"
 keywords = "gene expression analysis,genome analysis"
 langid = "french"
