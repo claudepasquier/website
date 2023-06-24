@@ -10,12 +10,13 @@ publisher = "Life Science Alliance"
 number = "9"
 volume = "6"
 publication = "Life Science Alliance"
-date = "2023-06-20"
+date = "2023-09-01"
 authors = [ "Claude Pasquier", "Vincent Guerlais", "Denis Pallez", "Raphaël Rapetti-Mauss", "Olivier Soriani",]
 title = "A Network Embedding Approach to Identify Active Modules in Biological Interaction Networks"
 publication_types = [ "2",]
 ID = "Pasquier2023"
 pmid = "37339804"
+url_pdf = "files/pdf/Pasquier2023.pdf"
 [[links]]
 name = "Article Link"
 url = "https://www.life-science-alliance.org/content/6/9/e202201550"
