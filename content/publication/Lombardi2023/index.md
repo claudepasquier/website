@@ -15,7 +15,7 @@ url = "https://hal.science/hal-04160272/document"
 
 [[links]]
 name = "Conference Site"
-url = "\\href https://www.congres-reanimation.fr/https://www.congres-reanimation.fr/"
+url = "https://www.congres-reanimation.fr/"
 
 [image]
 preview_only = "true"

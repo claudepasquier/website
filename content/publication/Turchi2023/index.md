@@ -19,7 +19,7 @@ url = "https://www.mdpi.com/2072-6694/15/20/5038"
 
 [[links]]
 name = "Journal Site"
-url = "\\href https://www.mdpi.com/journal/cancershttps://www.mdpi.com/journal/cancers/"
+url = "https://www.mdpi.com/journal/cancers/"
 
 [image]
 preview_only = "true"
