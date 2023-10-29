@@ -2,7 +2,7 @@
 audience = "I"
 keywords = "machine learning"
 volume = "13"
-date = "2023"
+date = "2023-06-16"
 authors = [ "Romain Lombardi", "Mathieu Jozwiak", "Jean Dellamonica", "Claude Pasquier",]
 publication = "Reanimation 2023, the French Intensive Care Society International Congress"
 title = "A Machine Learning Approach to Predict Weaning Outcome among Ventilated Patients in Intensive Care Unit"
