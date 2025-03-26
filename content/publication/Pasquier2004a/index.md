@@ -16,7 +16,7 @@ authors = [ "Claude Pasquier", "Fabrice Girardot", "Karim Jevardat de Fombelle",
 title = "THEA: Ontology-Driven Analysis of Microarray Data."
 publication_types = [ "2",]
 ID = "Pasquier2004a"
-pmid = "15130932"
+pubmed = "15130932"
 url_pdf = "files/pdf/Pasquier2004a.pdf"
 [[links]]
 name = "Supplemental Data"

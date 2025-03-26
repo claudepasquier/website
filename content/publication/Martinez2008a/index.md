@@ -16,7 +16,7 @@ authors = [ "Ricardo Martinez", "Nicolas Pasquier", "Claude Pasquier",]
 title = "GenMiner: Mining Non-Redundant Association Rules from Integrated Gene Expression Data and Annotations."
 publication_types = [ "2",]
 ID = "Martinez2008a"
-pmid = "18799482"
+pubmed = "18799482"
 url_pdf = "files/pdf/Martinez2008a.pdf"
 [[links]]
 name = "Supplemental Data"

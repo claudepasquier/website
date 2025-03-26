@@ -16,7 +16,7 @@ authors = [ "Claude Pasquier",]
 title = "Biological Data Integration Using Semantic Web Technologies."
 publication_types = [ "2",]
 ID = "Pasquier2008a"
-pmid = "18294970"
+pubmed = "18294970"
 url_pdf = "files/pdf/Pasquier2008a.pdf"
 [[links]]
 name = "Article Link"

@@ -16,7 +16,7 @@ authors = [ "Claude Pasquier", "Mathilde Clément", "Aviv Dombrovsky", "Stéphan
 title = "Environmentally Selected Aphid Variants in Clonality Context Display Differential Patterns of Methylation in the Genome"
 publication_types = [ "2",]
 ID = "Pasquier2014a"
-pmid = "25551225"
+pubmed = "25551225"
 url_pdf = "files/pdf/Pasquier2014a.pdf"
 [[links]]
 name = "Article Link"

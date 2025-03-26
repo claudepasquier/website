@@ -17,7 +17,7 @@ authors = [ "Claude Pasquier", "Vassilis Promponas", "Nikos Varvayannis", "Stavr
 title = "A Web Server to Locate Periodicities in a Sequence"
 publication_types = [ "2",]
 ID = "Pasquier1998a"
-pmid = "9789101"
+pubmed = "9789101"
 url_pdf = "files/pdf/Pasquier1998a.pdf"
 [[links]]
 name = "Article Link"

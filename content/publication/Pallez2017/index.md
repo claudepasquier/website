@@ -16,7 +16,7 @@ authors = [ "Denis Pallez", "Julien Gardès", "Claude Pasquier",]
 title = "Prediction of miRNA-disease Associations Using an Evolutionary Tuned Latent Semantic Analysis."
 publication_types = [ "2",]
 ID = "Pallez2017"
-pmid = "28874691"
+pubmed = "28874691"
 url_pdf = "files/pdf/Pallez2017.pdf"
 [[links]]
 name = "Article Link"

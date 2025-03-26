@@ -16,7 +16,7 @@ authors = [ "Ioannis Iliopoulos", "Sophia Tsoka", "Miguel A Andrade", "Anton J E
 title = "Evaluation of Annotation Strategies Using an Entire Genome Sequence"
 publication_types = [ "2",]
 ID = "Iliopoulos2003"
-pmid = "12691983"
+pubmed = "12691983"
 url_pdf = "files/pdf/Iliopoulos2003.pdf"
 [[links]]
 name = "Article Link"

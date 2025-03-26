@@ -16,7 +16,7 @@ authors = [ "Claude Pasquier", "Sandra Agnel", "Alain Robichon",]
 title = "The Mapping of Predicted Triplex DNA:RNA in the Drosophila Genome Reveals a Prominent Location in Development- and Morphogenesis-Related Genes"
 publication_types = [ "2",]
 ID = "Pasquier2017a"
-pmid = "28515050"
+pubmed = "28515050"
 url_pdf = "files/pdf/Pasquier2017a.pdf"
 [[links]]
 name = "Article Link"

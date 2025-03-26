@@ -17,7 +17,7 @@ authors = [ "Claude Pasquier", "Stavros Hamodrakas",]
 title = "An Hierarchical Artificial Neural Network System for the Classification of Transmembrane Proteins"
 publication_types = [ "2",]
 ID = "Pasquier1999b"
-pmid = "10469822"
+pubmed = "10469822"
 [[links]]
 name = "Article Link"
 url = "https://academic.oup.com/peds/article/12/8/631/1538178"

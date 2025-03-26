@@ -15,7 +15,7 @@ authors = [ "Vasilis Promponas", "Giorgos Palaios", "Claude Pasquier", "Ioannis 
 title = "CoPreTHi: A Web Tool Which Combines Transmembrane Protein Segment Prediction Methods."
 publication_types = [ "2",]
 ID = "Promponas1999"
-pmid = "11471236"
+pubmed = "11471236"
 [[links]]
 name = "Article Link"
 url = "https://content.iospress.com/articles/in-silico-biology/isb00014"

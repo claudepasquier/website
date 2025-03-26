@@ -16,7 +16,7 @@ authors = [ "Claude Pasquier", "Vassilis Promponas", "Stavros Hamodrakas",]
 title = "PRED-CLASS: Cascading Neural Networks for Generalized Protein Classification and Genome-Wide Applications."
 publication_types = [ "2",]
 ID = "Pasquier2001"
-pmid = "11455609"
+pubmed = "11455609"
 url_pdf = "files/pdf/Pasquier2001.pdf"
 [[links]]
 name = "Article Link"

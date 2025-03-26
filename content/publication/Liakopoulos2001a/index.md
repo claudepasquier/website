@@ -17,7 +17,7 @@ authors = [ "Theodore Liakopoulos", "Claude Pasquier", "Stavros Hamodrakas",]
 title = "A Novel Tool for the Prediction of Transmembrane Protein Topology Based on a Statistical Analysis of the SwissProt Database: The OrienTM Algorithm"
 publication_types = [ "2",]
 ID = "Liakopoulos2001a"
-pmid = "11477216"
+pubmed = "11477216"
 url_pdf = "files/pdf/Liakopoulos2001a.pdf"
 [[links]]
 name = "Article Link"

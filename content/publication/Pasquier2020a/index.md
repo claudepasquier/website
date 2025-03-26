@@ -11,7 +11,7 @@ authors = [ "Claude Pasquier", "Alain Robichon",]
 title = "Computational Search of Hybrid Human/ SARS-CoV-2 dsRNA Reveals Unique Viral Sequences That Diverge from Other Coronavirus Strains"
 publication_types = [ "2",]
 ID = "Pasquier2020a"
-arxiv = "2020.04.08.031856"
+arXiv = "2020.04.08.031856"
 url_pdf = "files/pdf/Pasquier2020a.pdf"
 [[links]]
 name = "Article Link"
