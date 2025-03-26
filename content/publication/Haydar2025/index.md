@@ -12,7 +12,7 @@ ID = "Haydar2025"
 url_pdf = "files/pdf/Haydar2025.pdf"
 [[links]]
 name = "Conference Site"
-url = "\\href https://www.egu25.eu/https://www.egu25.eu/"
+url = "https://www.egu25.eu/"
 
 [image]
 preview_only = "true"

@@ -12,7 +12,7 @@ ID = "Pereira2025"
 url_pdf = "files/pdf/Pereira2025.pdf"
 [[links]]
 name = "Conference Site"
-url = "\\href https://icaart.scitevents.org/Home.aspx?y"
+url = "https://icaart.scitevents.org/Home.aspx?y"
 
 [image]
 preview_only = "true"

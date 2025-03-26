@@ -21,7 +21,7 @@ url = "https://doi.org/10.1186/s40635-025-00724-0"
 
 [[links]]
 name = "Journal Site"
-url = "\\href https://icm-experimental.springeropen.com/https://icm-experimental.springeropen.com/"
+url = "https://icm-experimental.springeropen.com/"
 
 [image]
 preview_only = "true"
