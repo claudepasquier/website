@@ -114,7 +114,7 @@ This work led to the implementation of several tools freely available on the Int
 [^Promponas1999]: {{< cite page="/publication/Promponas1999" view="4" >}}
 [^Pasquier1999b]: {{< cite page="/publication/Pasquier1999b" view="4" >}}
 [^Liakopoulos2000]: {{< cite page="/publication/Liakopoulos2000" view="4" >}}
-[^Liakopoulos2001b]: {{< cite page="/publication/Pasquier2013a" view="4" >}}
+[^Liakopoulos2001b]: {{< cite page="/publication/Liakopoulos2001b" view="4" >}}
 [^Iliopoulos2003]: {{< cite page="/publication/Iliopoulos2003" view="4" >}}
 [^Liakopoulos1999]: {{< cite page="/publication/Liakopoulos1999" view="4" >}}
 [^Liakopoulos2001a]: {{< cite page="/publication/Liakopoulos2001a" view="4" >}}
