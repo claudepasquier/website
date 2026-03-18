@@ -16,6 +16,7 @@ authors = [ "Batoul Haydar", "Nanée Chahinian", "Claude Pasquier",]
 title = "Reconstructing Sewer Network Topology Using Graph Theory"
 publication_types = [ "2",]
 ID = "Haydar2026"
+url_pdf = "files/pdf/Haydar2026.pdf"
 [[links]]
 name = "Article Link"
 url = "https://www.mdpi.com/2073-4441/18/2/222"
