@@ -2,6 +2,7 @@
 impact_factor = "2.259"
 audience = "I"
 keywords = "protein structure prediction"
+pmid = "9789101"
 langid = "english"
 abstract = "FT is a tool written in C++, which implements the Fourier analysis method to locate periodicities in aminoacid or DNA sequences. It is provided for free public use on a WWW server with a Java interface. Availability : The server address is http://athina.biol.uoa.gr/FT."
 doi = "10.1093/oxfordjournals.bioinformatics.a011054"
@@ -17,7 +18,7 @@ authors = [ "Claude Pasquier", "Vassilis Promponas", "Nikos Varvayannis", "Stavr
 title = "A Web Server to Locate Periodicities in a Sequence"
 publication_types = [ "2",]
 ID = "Pasquier1998a"
-pubmed = "9789101"
+arXiv = "0902.3145"
 url_pdf = "files/pdf/Pasquier1998a.pdf"
 [[links]]
 name = "Article Link"
