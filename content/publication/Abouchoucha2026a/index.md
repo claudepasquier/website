@@ -1,5 +1,5 @@
 +++
-impact_factor = "3.6"
+impact_factor = "3.9"
 audience = "I"
 keywords = "Biomarkers,Cancer,Computational biology and bioinformatics"
 langid = "english"
@@ -16,6 +16,7 @@ authors = [ "Fadi Abou Choucha", "Claude Pasquier",]
 title = "MEAST: A Novel Framework for Analyzing Gene Set Stability in Single Cell Transcriptomics"
 publication_types = [ "2",]
 ID = "Abouchoucha2026a"
+url_pdf = "files/pdf/Abouchoucha2026a.pdf"
 [[links]]
 name = "Article Link"
 url = "https://www.nature.com/articles/s41598-026-48119-9"
