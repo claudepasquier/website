@@ -10,6 +10,7 @@ publication = "20th Conference of the Hellenic Society for Biological Science"
 title = "A Web Interface for FT: A Tool Dedicated to the Study of Periodicities in Sequences"
 publication_types = [ "1",]
 ID = "Pasquier1998b"
+url_pdf = "files/pdf/Pasquier1998b.pdf"
 [[links]]
 name = "Conference Site"
 url = "http://www.eebe.gr"

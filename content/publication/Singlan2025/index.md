@@ -1,5 +1,5 @@
 +++
-impact_factor = "3.8"
+impact_factor = "3.9"
 audience = "I"
 keywords = "Bioinformatics,Gene expression analysis"
 langid = "english"

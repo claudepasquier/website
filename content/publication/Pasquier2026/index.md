@@ -1,0 +1,15 @@
++++
+audience = "I"
+keywords = "complex network,data mining,network analysis,sewer networks"
+eventtitle = "GAMIN 2026: GeoAI for Multi-source Urban Data Integration and Management"
+authors = [ "Claude Pasquier", "Batoul Haydar", "Nanée Chahinian", "family=Costa Pereira, given=Célia, prefix=da, useprefix=true", "Andrea G.B. Tettamanzi",]
+title = "Smart Management of Urban Drainage Networks: Integrating Ontologies, Graph Theory, and Data Mining"
+publication_types = [ "7",]
+ID = "Pasquier2026"
+[[links]]
+name = "Conference Site"
+url = "https://sites.google.com/view/gamin2026"
+
+[image]
+preview_only = "true"
++++

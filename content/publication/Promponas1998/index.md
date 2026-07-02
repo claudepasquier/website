@@ -10,6 +10,7 @@ publication = "20th Conference of the Hellenic Society for Biological Sciences"
 title = "CoPreTHi: A Program to Combine the Results of Transmembrane Protein Segment Prediction Methods"
 publication_types = [ "1",]
 ID = "Promponas1998"
+url_pdf = "files/pdf/Promponas1998.pdf"
 [[links]]
 name = "Conference Site"
 url = "http://www.eebe.gr"
