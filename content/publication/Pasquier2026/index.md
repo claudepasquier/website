@@ -9,6 +9,7 @@ ID = "Pasquier2026"
 [[links]]
 name = "Conference Site"
 url = "https://sites.google.com/view/gamin2026"
+date = 2026-07-03
 
 [image]
 preview_only = "true"
