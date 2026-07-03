@@ -5,7 +5,7 @@ eventtitle = "GAMIN 2026: GeoAI for Multi-source Urban Data Integration and Mana
 publication = "Working Paper"
 authors = [ "Claude Pasquier", "Batoul Haydar", "Nanée Chahinian", "Célia da Costa Pereira", "Andrea G.B. Tettamanzi",]
 title = "Smart Management of Urban Drainage Networks: Integrating Ontologies, Graph Theory, and Data Mining"
-publication_types = [ "7",]
+publication_types = [ "2",]
 ID = "Pasquier2026"
 [[links]]
 name = "Conference Site"
