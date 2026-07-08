@@ -1,17 +1,19 @@
 +++
 impact_factor = "3.9"
 audience = "I"
-keywords = "Bioinformatics,Gene expression analysis"
+keywords = [ "ACL", "Bioinformatics", "Gene expression analysis",]
 langid = "english"
 abstract = "Real-world networks, such as biological networks, often exhibit complex structures and have attributes associated with nodes, which leads to significant challenges for analysis and modeling. Community detection algorithms can help identify groups of nodes of particular importance. However, traditional methods focus primarily on topological information, overlooking the importance of attribute-based similarities. This limitation hinders their ability to identify functionally coherent subnetworks. To address this, we propose a new scoring method for graph partitioning on the basis of a novel similarity function between node attributes. We then adapt the Louvain algorithm to optimize this scoring function, enabling the identification of communities that are both densely connected and functionally coherent. Extensive experiments on diverse biological networks, including artificial and real-world datasets, demonstrate the superiority of our approach over state-of-the-art methods. By leveraging both topological and attribute-based information, our approach provides a powerful tool for uncovering biologically meaningful modules and gaining deeper insights into complex biological processes."
+urldate = "2025-04-06"
 doi = "10.1038/s41598-025-95749-6"
 issn = "2045-2322"
 publisher = "Nature Publishing Group"
 pages = "11360"
 number = "1"
 volume = "15"
-publication = "Scientific Reports"
+publication = "Scientific Reports, Vol. 15, No. 1, pp. 11360"
 date = "2025-04-02"
+author = "Singlan, Nina and Abou Choucha, Fadi and Pasquier, Claude"
 authors = [ "Nina Singlan", "Fadi Abou Choucha", "Claude Pasquier",]
 title = "A New Similarity Based Adapted Louvain Algorithm (SIMBA) for Active Module Identification in p-Value Attributed Biological Networks"
 publication_types = [ "2",]

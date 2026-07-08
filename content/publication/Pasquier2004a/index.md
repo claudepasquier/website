@@ -1,18 +1,20 @@
 +++
 impact_factor = "5.742"
 audience = "I"
-keywords = "gene expression analysis"
+keywords = [ "ACL", "gene expression analysis",]
 pmid = "15130932"
 langid = "english"
 abstract = "MOTIVATION Microarray technology makes it possible to measure thousands of variables and to compare their values under hundreds of conditions. Once microarray data are quantified, normalized and classified, the analysis phase is essentially a manual and subjective task based on visual inspection of classes in the light of the vast amount of information available. Currently, data interpretation clearly constitutes the bottleneck of such analyses and there is an obvious need for tools able to fill the gap between data processed with mathematical methods and existing biological knowledge. RESULTS THEA (Tools for High-throughput Experiments Analysis) is an integrated information processing system allowing convenient handling of data. It allows to automatically annotate data issued from classification systems with selected biological information coming from a knowledge base and to either manually search and browse through these annotations or automatically generate meaningful generalizations according to statistical criteria (data mining)."
+urldate = "2014-07-19"
 doi = "10.1093/bioinformatics/bth295"
 issn = "1367-4803"
 publisher = "Oxford Academic"
-pages = "2636–43"
+pages = "2636--43"
 number = "16"
 volume = "20"
-publication = "Bioinformatics (Oxford, England)"
+publication = "Bioinformatics (Oxford, England), Vol. 20, No. 16, pp. 2636--43"
 date = "2004-11-01"
+author = "Pasquier, Claude and Girardot, Fabrice and Jevardat de Fombelle, Karim and Christen, Richard"
 authors = [ "Claude Pasquier", "Fabrice Girardot", "Karim Jevardat de Fombelle", "Richard Christen",]
 title = "THEA: Ontology-Driven Analysis of Microarray Data."
 publication_types = [ "2",]

@@ -1,19 +1,21 @@
 +++
 impact_factor = "2.259"
 audience = "I"
-keywords = "protein structure prediction"
+keywords = [ "ACL", "protein structure prediction",]
 pmid = "9789101"
 langid = "english"
 abstract = "FT is a tool written in C++, which implements the Fourier analysis method to locate periodicities in aminoacid or DNA sequences. It is provided for free public use on a WWW server with a Java interface. Availability : The server address is http://athina.biol.uoa.gr/FT."
+urldate = "2014-07-19"
 doi = "10.1093/oxfordjournals.bioinformatics.a011054"
 issn = "1367-4811"
 publisher = "Oxford Academic"
-pages = "749–50"
+pages = "749--50"
 number = "8"
 volume = "14"
-publication = "Bioinformatics"
+publication = "Bioinformatics, Vol. 14, No. 8, pp. 749--50"
 date = "1998-06-24"
 editor = "Oxford"
+author = "Pasquier, Claude and Promponas, Vassilis and Varvayannis, Nikos and Hamodrakas, Stavros"
 authors = [ "Claude Pasquier", "Vassilis Promponas", "Nikos Varvayannis", "Stavros Hamodrakas",]
 title = "A Web Server to Locate Periodicities in a Sequence"
 publication_types = [ "2",]

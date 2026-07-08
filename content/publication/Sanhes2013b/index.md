@@ -1,11 +1,12 @@
 +++
 audience = "N"
-keywords = "graph mining"
+keywords = [ "ACTN", "graph mining",]
 langid = "french"
 abstract = "Les graphes orientés acycliques attribués peuvent être utilisés dans beaucoup de domaines applicatif. Dans ce papier, nous étudions un nouveau domaine de motif pour permettre leur analyse : les chemins pondérés fréquents. Nous proposons en conséquence des contraintes primitives permettant d’évaluer leur pertinence (par exemple, les contraintes de fréquence et de compacité), et un algorithme extrayant ces solutions. Nous aboutissons à une représentation condensée dont l’efficacité et le passage à l’échelle sont étudiés empiriquement."
 location = "Toulouse, France"
 publisher = "RNTI"
 date = "2013-01-29"
+author = "Sanhes, Jérémy and Flouvat, Frédéric and Pasquier, Claude and Selmaoui-Folcher, Nazha and Boulicaut, Jean-François"
 authors = [ "Jérémy Sanhes", "Frédéric Flouvat", "Claude Pasquier", "Nazha Selmaoui-Folcher", "Jean-François Boulicaut",]
 publication = "13ème Conférence Francophone sur l'Extraction et la Gestion des Connaissances (EGC'13), Revue des Nouvelles Technologies de l'Information, volume E-24"
 title = "Extraction de motifs condensés dans un unique graphe orienté acyclique attribué"
